@@ -1,0 +1,48 @@
+<html>
+<head>
+  <title> Search birds by attribute </title>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+</head>
+<body>
+    <h1> Search our bird database by wingspan and length </h1>
+        {% if step == "specify_attribute" %}
+            <p> Enter the estimated wingspan and length to find your possible bird: </p>
+            <form action="{{ url_for('searchByAttribute')}}" method="post">
+                <label for="length">Length in inches:</label>
+                <input type="text" id="length" name="length"><br>
+                <label for="wingspan">Wingspan in inches:</label>
+                <input type="text" id="wingspan" name="wingspan"><br>
+                
+                <br><input type="submit" value="Search by Attribute"> 
+                <input type="hidden" name="step" value="list_birds">
+            </form>
+            
+            <a href="{{ url_for('homeMain') }}"> Return to Homepage </a>
+
+        {% elif step == "list_birds" %}
+            {% if not birdList %}
+                No bird matches the specified attributes.<br>
+                <br><a href="{{url_for('searchByAttribute')}}">Search Again</a>
+                <br><br><a href="{{url_for('homeMain')}}">Return to the homepage</a>
+            {% else %}
+                <p> Here are the possible birds within a range of 3 inches from your desired length and wingspan: </p>
+                <table border="1">
+                <tr><td><b>Species</b></td><td><b>Common Name</b></td><td><b>Length</b></td><td><b>Wingspan</b></td></tr>
+                {% for bird in birdList %}
+                    <tr><td>{{ bird.species }}</td>
+                        <td>{{ bird.commonname }}</td>
+                        <td>{{ bird.length }}</td>
+                        <td>{{ bird.wingspan }}</td></tr>
+                {% endfor %}
+                </table>
+                
+                <br><a href="{{url_for('searchByAttribute')}}">Search Again</a>
+                <br><br><a href="{{url_for('homeMain')}}">Return to the homepage</a>
+            {% endif %}
+        {% endif %}
+</body>
+</html>

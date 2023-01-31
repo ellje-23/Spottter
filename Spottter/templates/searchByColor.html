@@ -1,0 +1,66 @@
+<html>
+<head>
+  <title> Search birds by color </title>
+    <style>
+          body {
+          background-color: linen; 
+          }
+        </style>
+</head>
+<body>
+    <h1> Search our bird database by color </h1>
+        {% if step == "select_colors" %}
+            <p> Select one or more colors below to find your possible bird: </p>
+            <form action="{{ url_for('searchByColor') }}" method="post">
+                <input type="checkbox" value="black" name="color">
+                <label for="black"> Black </label><br>
+                <input type="checkbox" value="blue" name="color">
+                <label for="blue"> Blue </label><br>
+                <input type="checkbox" value="brown" name="color">
+                <label for="brown"> Brown </label><br>
+                <input type="checkbox" value="green" name="color">
+                <label for="green"> Green </label><br>
+                <input type="checkbox" value="grey" name="color">
+                <label for="grey"> Grey </label><br>
+                <input type="checkbox" value="indigo" name="color">
+                <label for="indigo"> Indigo </label><br>
+                <input type="checkbox" value="orange" name="color">
+                <label for="orange"> Orange </label><br>
+                <input type="checkbox" value="pink" name="color">
+                <label for="pink"> Pink </label><br>
+                <input type="checkbox" value="red" name="color">
+                <label for="red"> Red </label><br>
+                <input type="checkbox" value="violet" name="color">
+                <label for="violet"> Violet </label><br>
+                <input type="checkbox" value="white" name="color">
+                <label for="white"> White </label><br>
+                <input type="checkbox" value="yellow" name="color">
+                <label for="yellow"> Yellow </label>
+                
+                <br><br><input type="submit" value="Search by colors">
+    
+                <input type="hidden" name="step" value="list_birds"><br>
+            </form>
+                <a href="{{ url_for('homeMain') }}"> Return to Homepage </a>
+
+        {% elif step == "list_birds" %}
+            {% if not birdList %}
+                No bird matches the specified colors.
+                <br><a href="{{url_for('searchByColor')}}">Search Again</a>
+                <br><br><a href="{{url_for('homeMain')}}">Return to the homepage</a>
+            {% else %}
+                <p> Here are the possible birds based on your color: </p>
+                <table border="1">
+                <tr><td><b>Species</b></td><td><b>Color</b></td></tr>
+                {% for bird in birdList %}
+                    <tr><td>{{ bird.species }}</td>
+                        <td>{{ bird.colorname }}</td></tr>
+                {% endfor %}
+                </table>
+                <br><a href="{{url_for('searchByColor')}}">Search Again</a>
+                <br><br><a href="{{url_for('homeMain')}}">Return to the homepage</a>
+                
+            {% endif %}
+        {% endif %}
+</body>
+</html>

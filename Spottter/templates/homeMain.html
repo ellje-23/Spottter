@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> Main Page </title>
+        <style>
+          body {
+          background-color: linen; 
+          }
+        </style>
+    </head>
+    <body>
+        <a href="{{url_for('home')}}">Log Out</a>
+        <center><h1> Hello there tweeter! </h1></center>
+        <h3>What would you like to do? </h3>
+        <p> Account </p>
+        <li><a href="{{url_for('modify')}}">Modify Account</a></li>
+        <li><a href="{{url_for('mygroup')}}">Your Birding Group</a></li>
+        <li><a href="{{url_for('checklist')}}">View your Checklist</a></li>
+        <li><a href="{{url_for('viewSighting')}}">View your Sightings</a></li>
+        <p> Searches </p>
+        <li><a href="{{url_for('searchByColor')}}">Search by Color</a></li>
+        <li><a href="{{url_for('searchByAttribute')}}">Search by Attribute</a></li>
+        <li><a href="{{url_for('searchByRegion')}}">Search by Region</a></li>
+        <li><a href="{{url_for('searchBySpecies')}}">Search by Specie</a></li>
+        <p> Sightings </p>
+        <li><a href="{{url_for('addSighting')}}">Add a sighting </a></li>
+        <li><a href="{{url_for('editSighting')}}">Edit a sighting</a></li>
+        <li><a href="{{url_for('deleteSighting')}}">Delete a sighting</a></li>
+        <li><a href="{{url_for('browseSighting')}}">Browse sightings</a></li>
+    </body>
+</html>
+

@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title> Bird CheckList</title>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+  </head>
+  <body>
+    <center>
+      {% if step == "user_checklist" %}
+        {% if entries|length > 0 %}
+          <h2> Birds to keep an eye out:</h2>
+            <h3>Choose an entry to edit:</h3>
+            <form action="{{ url_for('checklist') }}" method="post">
+            <table border="1">
+            <tr><td></td><td>Species</td><td> Common Name</td><td>Spotted</td></tr>
+            {% for entry in entries %}
+                <tr><td><input type="radio" name="species" value="{{entry.species}}"></td>
+                <td>{{entry.species}}</td></td><td>{{entry.commonname}}</td><td>{{entry.seen}}</td></tr>
+            {% endfor %}
+            </table>
+          <div>    
+            <button type="submit" name="step" value="Delete">Delete</button>
+          </div>
+          <div>
+            <button type="submit" name="step" value="Spotted">Spotted</button>
+          </div>  
+          </form>
+          <a href="{{ url_for('addtochecklist') }}">Add Bird</a><br>
+          <a href="{{ url_for('homeMain') }}">Back to homepage</a>
+        {% else %}
+          There are no entries.
+          <p>
+          <a href="{{ url_for('addtochecklist') }}">Add Bird</a>
+          <a href="{{ url_for('homeMain') }}">Back to homepage</a>
+        {% endif %}
+      {% endif %}
+        
+    </center>
+  </body>
+</html>

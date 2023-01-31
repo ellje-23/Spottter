@@ -1,0 +1,29 @@
+<html>
+<head>
+  <title>Modify Account</title>
+  <style>
+      body {
+      background-color: linen; 
+    }
+    </style>
+</head>
+  <center>
+  <body>
+    {% if step == "make_edit" %}
+    <h3>Edit Account</h3>
+    <form action="{{ url_for('modify') }}" method="post">
+      First Name: <input type="text" size="30" name="fname" value="{{info.firstname}}"><br><br>
+      Last Name: <input type="text" size="30" name="lname" value="{{info.lastname}}"><br><br>
+      <input type="hidden" name="step" value="update"><br>
+      <input type="hidden" name="email" value="{{info.email}}">
+      <input type="submit"><br>
+      <a href="{{url_for('homeMain')}}">Back to Home</a></li>
+    </form>
+
+    {% elif step =="update_complete" %}
+    <h2>Update Complete</h2>
+    <a href="{{ url_for('homeMain') }}"> Back to home</a>
+    {% endif %}
+  </body>
+  </center>  
+</html>

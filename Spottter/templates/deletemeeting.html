@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>Delete a Meeting</title>
+    </head>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+<body>
+    <h1>Delete a Meeting</h1>
+    
+    {% if step == "display_meetings" %}
+        {% if entries | length > 0 %}
+            Choose a meeting to edit:
+            <form action="{{url_for('deletemeeting')}}" method="post">
+                <table border="1">
+                <tr><td></td>
+                    <td><b>Topic</b></td>
+                    <td><b>Date and Time</b></td>
+                    <td><b>Address</b></td></tr>
+                {% for entry in entries %}
+                    <tr><td><input type="radio" name="chosenMeetingKeys" value="{{entry.datetime}}|{{entry.location}}"></td>
+                    <td>{{ entry.meetingtopic }}</td>
+                    <td>{{ entry.datetime }}</td>
+                    <td>{{ entry.location}}, {{ entry.statename }}</td></tr>
+                {% endfor %}
+                </table>
+            <input type="hidden" name="step" value="delete_meeting"><br>
+            <input type="submit" value="Select Meeting">
+            <br><br><a href="{{ url_for('mygroup') }}">Return to group</a>
+            <br><a href="{{ url_for('homeMain') }}"> Return to Homepage </a>
+            </form>
+        {% else %}
+            Your group has no meetings scheduled.
+            <br><a href="{{ url_for('addmeeting') }}">Create new meeting</a><br> 
+            <p>
+            <a href="{{ url_for('mygroup') }}">Return to group</a>
+            <br><a href="{{ url_for('homeMain') }}">Return to homepage</a>
+        {% endif %}
+    {% elif step == "delete_meeting" %}
+        Your meeting has been deleted.
+        <p>
+        <a href="{{ url_for('mygroup') }}">Return to group</a>
+        <br><a href="{{ url_for('homeMain') }}">Back to homepage</a>
+    {% endif %}
+</body>
+</html>

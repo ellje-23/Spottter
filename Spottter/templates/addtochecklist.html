@@ -1,0 +1,60 @@
+<hmlt>
+  <header>
+    <title> Add to checklist</title>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+  </header>
+  <center>
+  <body>
+    {% if step == "add" %}
+    <h2>Search for bird to add to your Checklist:</h2><br>
+    <form action="{{ url_for('addtochecklist') }}" method="post">
+      
+      Select state of the bird:<br>
+      <select id="state" name="state" size="5">
+        {% for entry in entries %}
+         <option value="{{entry.statename}}"> {{entry.statename}} </option>      
+        {% endfor %}
+      </select><br>
+      
+      Select the family:<br>
+      <select id="family" name="family" size="5">
+        {% for fam in familydata %}
+         <option value="{{fam.family}}"> {{fam.family}} </option>      
+        {% endfor %}
+      </select><br>
+      
+      <input type="hidden" name="step" value="getbirds">
+      <input type="submit" value="Get Birds"><br>
+      <a href="{{ url_for('checklist') }}">Back to Checklist</a>
+
+    {% elif step == "show_list" %}
+      {% if entries|length > 0 %}
+        <h2> Birds:</h2>
+          <form action="{{ url_for('addtochecklist') }}" method="post">
+          <table border="1">
+            <tr><td></td><td>Species</td><td> Common Name</td></tr>
+            {% for entry in entries %}
+                <tr><td><input type="radio" name="species" value="{{entry.species}}"></td>
+                <td>{{entry.species}}</td></td><td>{{entry.commonname}}</td></tr>
+            {% endfor %}
+          </table>
+        <input type="hidden" name="step" value="add_to">
+        <input type="submit" value="Add">   
+        </form>
+        <a href="{{ url_for('checklist') }}">Back to Checklist</a>
+      {% else %}
+        There are no birds matching those attributes.
+        <p>
+        <a href="{{ url_for('addtochecklist') }}">Try Again.</a>
+      {% endif %}
+    {% elif step == "done" %}
+      Tweet. Tweet. The bird is added to your Checklist
+      <a href="{{ url_for('checklist') }}"> My Checklist.</a>
+    {% endif %}    
+  </body>
+    </center>
+</hmlt>

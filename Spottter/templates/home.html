@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> HomePage </title>
+    <style>
+      body {
+      background-color: linen; 
+    }
+    </style>
+  </head>
+  
+  <center>
+    <body> 
+    <h1 style ="color:black;"> Welcome to Spottter</h1>
+    {% if step=="compose_entry" %}
+      <h3>Please Sign In to continue using the site:</h3>
+      <form action="{{ url_for('home') }}" method= post>
+        Email: <input type="email" size="30" name="email"><br><br>
+        Password: <input type="password" size="30" name="password"><br><br>
+      <input type="hidden" name="step" value="check">
+      <input type="submit" value="Sign In">
+    </form>
+      If you don't have an account: <a href="{{ url_for('signup') }}">Sign Up</a>
+    
+      {% elif step == "false" %}
+      <h3>Incorrect Username and/or Password. Please try again.</h3>
+      <form action="{{url_for('home')}}" method= post>
+        Email: <input type="email" size="30" name="email"><br><br>
+        Password: <input type="password" size="30" name="password"><br>
+      <input type="hidden" name="step" value="check"><br>
+      <input type="submit" value="Sign In">
+    </form>
+     If you don't have an account: <a href="{{ url_for('signup') }}"> Sign Up.</a>
+
+      {% endif %}  
+    </body>
+  </center>
+</html>

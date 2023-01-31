@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Delete a Sighting</title>
+    </head>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+<body>
+    <h1>Delete a Sighting</h1>
+    {% if step == "display_sightings" %}
+        {% if entries | length > 0 %}
+            Choose a sighting to delete:
+            <form action="{{ url_for('deleteSighting') }}" method="post">
+                <table border="1">
+                <tr><td></td>
+                    <td><b>Email</b></td>
+                    <td><b>Species</b></td>
+                    <td><b>Date and Time</b></td>
+                    <td><b>Longitude</b></td>
+                    <td><b>Latitude</b></td>
+                    <td><b>State Name</b></td></tr>
+                {% for entry in entries %}
+                    <tr><td><input type="radio" name="choice" value="{{entry.datetime}}|{{entry.species}}"></td>
+                    <td>{{ entry.email }}</td>
+                    <td>{{ entry.species }}</td>
+                    <td>{{ entry.datetime }}</td>
+                    <td>{{ entry.longitude }}</td>
+                    <td>{{ entry.latitude }}</td>
+                    <td>{{ entry.statename }}</td></tr>
+                {% endfor %}
+                </table>
+            <input type="hidden" name="step" value="delete_sighting">
+            <br><input type="submit" value="Select Sighting">
+            <br><br><a href="{{ url_for('homeMain') }}"> Return to Homepage </a>
+            </form>
+        {% else %}
+            There are no entries.
+            <p>
+            <a href="{{ url_for('homeMain') }}">Return to homepage</a>
+        {% endif %}
+        
+    {% elif step == "delete_sighting" %}
+        Your sighting has been deleted. Better pack your bags to spot your next bird!
+        <p>
+        <a href="{{ url_for('homeMain') }}">Back to homepage</a>
+    {% endif %}
+</body>
+</html>

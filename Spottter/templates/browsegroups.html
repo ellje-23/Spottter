@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Browse birding groups</title>
+    </head>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+<body>
+    <h1>Browse birding groups</h1>
+    {% if step == "select_group" %}
+        <form action="{{ url_for('browsegroups') }}" method="post">
+    
+            <label> Select group:</label><br>
+            <!--groupID, groupName, numMembers-->
+            <select id="allgroups" name="groupID" size="5">
+            {% for group in groups %}
+                <option value={{group.groupid}}>{{group.groupname}}</option>
+            {% endfor %}   
+            </select><br>
+       
+        <input type="hidden" name="step" value="groupinfo">
+        <input type="submit" value="View group information">
+        </form>
+    
+    {% elif step == "groupinfo" %}
+        <h2>{{viewgroup.groupname}}</h2> 
+        <form action="{{ url_for('browsegroups') }}" method="post">
+        <input type="hidden" name="step" value="joingroup">
+        <input type="hidden" name="newgroupID" value={{viewgroup.groupid}}>
+        <input type="submit" value="Join this group"><br>
+        </form>
+    
+            <!-- email, firstName, lastName -->
+            <h3>{{ viewgroup.nummembers }} members</h3>
+            {% if members|length > 0 %}
+
+                <table border="1">
+                    <td><b>Name</b></td>
+                    <td><b>Email Address</b></td></tr>
+                {% for member in members %}
+                    <td>{{ member.firstname }} {{member.lastname}}</td>
+                    <td>{{ member.email }}</td></tr>
+                {% endfor %}
+                </table>
+            {% endif %}
+    
+            <br>
+            <!--meetingTopic, groupID, dateTime-->
+            <h3>Upcoming Meetings</h3>
+            {% if meetings|length > 0 %}
+                <ul>
+                {% for meeting in meetings %}
+                    <li><b>{{ meeting.meetingtopic }}</b> — {{meeting.datetime}}<br>
+                    <hr>
+                {% endfor %}
+                </ul>
+            {% else %}
+                No upcoming meetings!
+            {% endif %}
+    
+        <br><br><a href="{{url_for('browsegroups')}}">Browse other groups</a>
+        <br><br><a href="{{ url_for('homeMain') }}">Back to homepage</a>
+    {% elif step == "joingroup" %}
+        Group joined successfully!
+        <br><br><a href="{{url_for('browsegroups')}}">Browse other groups</a>
+        <br><a href="{{ url_for('mygroup') }}">View my new group</a>
+        <br><a href="{{ url_for('homeMain') }}">Back to homepage</a>
+    {% endif %}
+</body>
+</html>

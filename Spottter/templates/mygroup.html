@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>My Birding Groups</title>
+    </head>
+    <style>
+          body {
+          background-color: linen; 
+          }
+    </style>
+<body>
+    <h1>Birding Groups</h1>
+  
+    {% if mygroup|length > 0 %}
+        <h2>My Group — {{mygroup.groupname}}</h2>
+        <a href="{{ url_for('browsegroups') }}">Join a different group</a>
+    
+        <h3>{{ mygroup.nummembers }} members</h3>
+            {% if members|length > 0 %}
+
+                <table border="1">
+                    <td><b>Name</b></td>
+                    <td><b>Email Address</b></td></tr>
+                {% for member in members %}
+                    <td>{{ member.firstname }} {{member.lastname}}</td>
+                    <td>{{ member.email }}</td></tr>
+                {% endfor %}
+                </table>
+            {% endif %}
+ 
+        <h3>Upcoming Meetings</h3>
+        {% if meetings|length > 0 %}
+            <ul>
+            {% for meeting in meetings %}
+                <li><b>{{ meeting.meetingtopic }}</b> — {{meeting.datetime}} at {{meeting.location}}, {{meeting.statename}}<br>
+                <hr>
+            {% endfor %}
+            </ul>
+        {% else %}
+            No upcoming meetings!
+        {% endif %}
+        <a href="{{ url_for('addmeeting') }}">Create new meeting</a><br> 
+        <a href="{{ url_for('editmeeting') }}">Edit a meeting</a><br> 
+        <a href="{{ url_for('deletemeeting') }}">Delete a meeting</a><br> 
+
+    {% else %}
+        <h2>My Group</h2>
+        You haven't joined a group! <br><br> <a href="{{ url_for('browsegroups') }}">Browse groups</a>
+    {% endif %}
+
+    <br><a href="{{ url_for('homeMain') }}">Back to homepage</a>
+
+</body>
+</html>

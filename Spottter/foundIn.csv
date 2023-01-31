@@ -1,0 +1,2398 @@
+species,stateName,speciePopulation
+Nothocercus bonapartei,Pennsylvania,69825
+Tinamus major,North Carolina,280902
+Crypturellus soui,Florida,552777
+Crypturellus cinnamomeus,Hawaii,285704
+Crypturellus boucardi,Virginia,357586
+Crypturellus kerriae,Indiana,811005
+Dendrocygna autumnalis,Tennessee,470537
+Dendrocygna arborea,New York,387247
+Dendrocygna bicolor,Georgia,282788
+Anser canagicus,New Mexico,159326
+Anser rossii,Minnesota,981938
+Anser anser,Texas,916983
+Anser albifrons,Pennsylvania,362476
+Anser fabalis,Pennsylvania,213839
+Anser serrirostris,District of Columbia,461711
+Anser brachyrhynchus,California,182646
+Branta bernicla,Missouri,233018
+Branta leucopsis,West Virginia,962753
+Branta hutchinsii,District of Columbia,432510
+Branta canadensis,North Carolina,698708
+Melanitta deglandi,West Virginia,302084
+Melanitta stejnegeri,Kansas,111015
+Melanitta nigra,Massachusetts,664251
+Melanitta americana,New Jersey,495621
+Clangula hyemalis,California,28219
+Bucephala albeola,Minnesota,787995
+Bucephala clangula,Connecticut,736036
+Bucephala islandica,Arizona,420082
+Mergellus albellus,Texas,813863
+Mergus merganser,Iowa,469435
+Mergus serrator,Oklahoma,623359
+Nomonyx dominicus,Pennsylvania,908813
+Oxyura jamaicensis,Wyoming,361879
+Ortalis vetula,Wisconsin,161837
+Ortalis cinereiceps,Washington,139664
+Ortalis ruficauda,Texas,123616
+Ortalis wagleri,Pennsylvania,48289
+Ortalis poliocephala,District of Columbia,32827
+Ortalis leucogastra,Connecticut,308221
+Chamaepetes unicolor,Oklahoma,668327
+Penelopina nigra,Texas,751366
+Oreophasis derbianus,Oklahoma,836243
+Crax rubra,Tennessee,394052
+Numida meleagris,Illinois,692546
+Rhynchortyx cinctus,Ohio,892102
+Oreortyx pictus,Maryland,222656
+Dendrortyx leucophrys,Hawaii,826494
+Dendrortyx macroura,Wisconsin,195868
+Philortyx fasciatus,North Carolina,718743
+Colinus virginianus,Virginia,626077
+Colinus nigrogularis,Pennsylvania,293968
+Colinus cristatus,Ohio,556719
+Callipepla douglasii,Louisiana,563928
+Callipepla gambelii,South Dakota,883187
+Cyrtonyx montezumae,District of Columbia,725489
+Cyrtonyx ocellatus,Missouri,489519
+Dactylortyx thoracicus,Arizona,896200
+Odontophorus gujanensis,Florida,640609
+Odontophorus melanotis,District of Columbia,5138
+Odontophorus dialeucos,Virginia,947810
+Odontophorus leucolaemus,Alabama,20550
+Odontophorus guttatus,New York,608267
+Meleagris gallopavo,New York,201871
+Meleagris ocellata,Alabama,466986
+Bonasa umbellus,California,867855
+Falcipennis canadensis,Nebraska,926744
+Canachites canadensis,Georgia,16450
+Lagopus leucura,Pennsylvania,616231
+Centrocercus urophasianus,Colorado,881410
+Centrocercus minimus,California,998712
+Alectoris chukar,Pennsylvania,136450
+Coturnix japonica,California,80366
+Pternistis erckelii,Delaware,41514
+Phoenicopterus ruber,California,788952
+Tachybaptus dominicus,Texas,36592
+Podilymbus podiceps,Texas,409157
+Podilymbus gigas,New York,536620
+Podiceps auritus,Alabama,435879
+Podiceps grisegena,Oregon,55768
+Podiceps nigricollis,Illinois,218369
+Aechmophorus occidentalis,Ohio,307340
+Aechmophorus clarkii,District of Columbia,829678
+Pterocles exustus,Oklahoma,145207
+Columba livia,Utah,952446
+Columba palumbus,Pennsylvania,923203
+Patagioenas cayennensis,New Jersey,314357
+Patagioenas speciosa,California,466925
+Patagioenas squamosa,Alabama,277984
+Patagioenas leucocephala,Alabama,472926
+Patagioenas flavirostris,West Virginia,472693
+Patagioenas inornata,Nebraska,128449
+Patagioenas fasciata,Virginia,760658
+Patagioenas caribaea,Florida,24217
+Patagioenas plumbea,New York,179423
+Patagioenas subvinacea,California,55226
+Patagioenas nigrirostris,Florida,823811
+Patagioenas goodsoni,California,360709
+Streptopelia orientalis,Florida,756911
+Streptopelia roseogrisea,Georgia,135901
+Streptopelia turtur,Washington,299529
+Streptopelia decaocto,Alabama,496700
+Streptopelia chinensis,Colorado,239695
+Geopelia striata,Pennsylvania,749279
+Ectopistes migratorius,California,376704
+Columbina inca,New York,402260
+Columbina passerina,Texas,236983
+Columbina minuta,California,786873
+Columbina talpacoti,Texas,242241
+Claravis pretiosa,Georgia,156160
+Paraclaravis mondetoura,New York,673420
+Starnoenas cyanocephala,Massachusetts,415857
+Zentrygon costaricensis,Virginia,553502
+Zentrygon albifacies,Texas,4119
+Zentrygon chiriquensis,Illinois,859134
+Zentrygon goldmani,Texas,507937
+Zenaida asiatica,Oregon,264666
+Zenaida aurita,Texas,439773
+Zenaida auriculata,Florida,87422
+Zenaida macroura,Oklahoma,492001
+Zenaida graysoni,California,159461
+Coccyzus euleri,Georgia,128870
+Coccyzus minor,South Carolina,494471
+Coccyzus ferrugineus,South Dakota,655540
+Coccyzus erythropthalmus,Wisconsin,201424
+Coccyzus lansbergi,New York,46350
+Coccyzus vetula,Colorado,478094
+Coccyzus vieilloti,California,387890
+Coccyzus merlini,Missouri,59928
+Coccyzus longirostris,Connecticut,594846
+Chordeiles acutipennis,Minnesota,72687
+Chordeiles minor,Arizona,291916
+Chordeiles gundlachii,Pennsylvania,823214
+Nyctidromus albicollis,West Virginia,506961
+Siphonorhis americana,Massachusetts,48400
+Siphonorhis brewsteri,Florida,486840
+Nyctiphrynus mcleodii,Texas,887447
+Antrostomus vociferus,Virginia,707353
+Antrostomus saturatus,Washington,353998
+Antrostomus noctitherus,New Jersey,117935
+Hydropsalis cayennensis,Illinois,588176
+Hydropsalis maculicaudus,Colorado,41377
+Caprimulgus jotaka,California,899446
+Steatornis caripensis,Utah,371947
+Nyctibius grandis,West Virginia,739691
+Nyctibius griseus,Missouri,343456
+Cypseloides niger,California,930158
+Cypseloides storeri,New York,963290
+Cypseloides cryptus,Michigan,611933
+Cypseloides cherriei,California,652873
+Streptoprocne rutila,Pennsylvania,877595
+Streptoprocne zonaris,Kansas,501047
+Streptoprocne semicollaris,District of Columbia,779794
+Chaetura cinereiventris,Florida,584231
+Chaetura fumosa,Tennessee,602620
+Chaetura pelagica,Ohio,79758
+Chaetura vauxi,Kansas,162489
+Chaetura chapmani,Florida,593366
+Chaetura meridionalis,New Mexico,458400
+Chaetura brachyura,Virginia,651175
+Hirundapus caudacutus,District of Columbia,774758
+Aerodramus bartschi,Iowa,837451
+Apus apus,District of Columbia,820344
+Apus melba,Texas,209196
+Aeronautes saxatalis,Texas,445203
+Panyptila cayennensis,District of Columbia,210925
+Panyptila sanctihieronymi,Georgia,544519
+Tachornis phoenicobia,Texas,295658
+Florisuga mellivora,New York,57819
+Eutoxeres aquila,Alabama,550279
+Glaucis aeneus,Oregon,995320
+Threnetes ruckeri,Michigan,755987
+Phaethornis guy,California,368992
+Phaethornis mexicanus,Kentucky,91779
+Phaethornis longirostris,Arizona,757568
+Phaethornis anthophilus,Florida,712436
+Phaethornis striigularis,West Virginia,464699
+Doryfera ludovicae,Texas,746816
+Colibri cyanotus,Missouri,100878
+Androdon aequatorialis,New York,514502
+Haplophaedia aureliae,West Virginia,971291
+Heliodoxa jacula,Georgia,458004
+Eugenes fulgens,California,681578
+Eugenes spectabilis,District of Columbia,797315
+Panterpe insignis,Georgia,585974
+Heliomaster longirostris,Kansas,175291
+Heliomaster constantii,Texas,261500
+Lampornis viridipallens,Oklahoma,257520
+Lampornis sybillae,New York,294205
+Lampornis amethystinus,Mississippi,457958
+Lampornis clemenciae,Wisconsin,787329
+Lampornis hemileucus,California,662489
+Lampornis calolaemus,Texas,494789
+Lampornis castaneoventris,Texas,888960
+Lamprolaima rhami,Ohio,802825
+Calliphlox bryantae,California,577673
+Calliphlox mitchellii,Texas,921646
+Philodice bryantae,Ohio,468304
+Philodice mitchellii,New York,669324
+Doricha enicura,Virginia,505452
+Doricha eliza,California,90216
+Tilmatura dupontii,Hawaii,338560
+Calothorax lucifer,Florida,264120
+Calothorax pulcher,North Carolina,684220
+Archilochus colubris,California,504612
+Archilochus alexandri,Nevada,393842
+Mellisuga minima,Illinois,894102
+Nesophlox evelynae,Georgia,114106
+Nesophlox lyrura,Colorado,892012
+Calypte anna,New Hampshire,165926
+Calypte costae,Texas,364517
+Selasphorus calliope,California,204767
+Selasphorus rufus,Tennessee,748489
+Selasphorus sasin,Missouri,936298
+Selasphorus platycercus,Utah,737785
+Selasphorus heloisa,Arkansas,901143
+Selasphorus ellioti,Hawaii,559400
+Pampa curvipennis,Iowa,717600
+Pampa excellens,Florida,194992
+Pampa rufa,Ohio,58831
+Abeillia abeillei,Oklahoma,317298
+Klais guimeti,Kansas,347743
+Orthorhyncus cristatus,Texas,457098
+Campylopterus hemileucurus,Illinois,70588
+Chalybura urochrysia,Georgia,798006
+Chalybura buffonii,Texas,366569
+Thalurania colombica,Washington,938270
+Chlorestes candida,Connecticut,810885
+Chlorestes eliciae,District of Columbia,516126
+Chlorestes julie,Virginia,357860
+Neocrex colombiana,Alabama,22393
+Neocrex erythrops,Iowa,383812
+Cyanolimnas cerverai,Washington,104705
+Pardirallus maculatus,South Dakota,499898
+Amaurolimnas concolor,Maryland,128323
+Aramides axillaris,Florida,543479
+Aramides albiventris,Texas,196921
+Aramides cajaneus,Maryland,699174
+Rallus obsoletus,Arkansas,930184
+Rallus tenuirostris,New York,830431
+Rallus longirostris,California,242717
+Rallus elegans,Kentucky,43220
+Rallus crepitans,Texas,72061
+Rallus limicola,North Carolina,507163
+Crex crex,Alabama,414008
+Porzana carolina,Utah,722260
+Porzana porzana,Texas,590704
+Gallinula galeata,Arizona,187205
+Fulica atra,Louisiana,628260
+Aramus guarauna,Illinois,243483
+Grus grus,Minnesota,140911
+Burhinus bistriatus,Wisconsin,949900
+Himantopus himantopus,Maryland,62970
+Himantopus mexicanus,Florida,358154
+Recurvirostra americana,California,211708
+Haematopus ostralegus,New York,290479
+Haematopus palliatus,California,287079
+Haematopus bachmani,North Dakota,270913
+Vanellus vanellus,Alabama,138916
+Vanellus chilensis,Illinois,682791
+Charadrius mongolus,New York,183339
+Charadrius leschenaultii,Tennessee,711369
+Charadrius veredus,California,969553
+Charadrius wilsonia,Texas,209675
+Charadrius collaris,Oklahoma,861618
+Charadrius montanus,Arizona,977941
+Charadrius nivosus,Texas,545721
+Jacana spinosa,Mississippi,902083
+Jacana jacana,Massachusetts,446314
+Bartramia longicauda,Florida,523014
+Numenius tahitiensis,Colorado,627410
+Numenius phaeopus,Alabama,725203
+Numenius minutus,Florida,830225
+Numenius borealis,Minnesota,815839
+Tringa flavipes,Ohio,742184
+Tringa semipalmata,Florida,406706
+Tringa erythropus,Alabama,22142
+Tringa nebularia,Florida,381865
+Tringa melanoleuca,Texas,484756
+Tringa totanus,Texas,292630
+Tringa glareola,Arkansas,542414
+Tringa stagnatilis,Michigan,500185
+Phalaropus tricolor,Texas,907324
+Phalaropus lobatus,Georgia,194565
+Phalaropus fulicarius,Virginia,43235
+Glareola pratincola,Oregon,609269
+Glareola maldivarum,Illinois,822124
+Stercorarius skua,California,868746
+Stercorarius maccormicki,Utah,877713
+Stercorarius pomarinus,Tennessee,322451
+Stercorarius parasiticus,Maryland,546608
+Alle alle,New York,987675
+Uria lomvia,California,584057
+Alca torda,District of Columbia,962675
+Pinguinus impennis,Kentucky,974851
+Cepphus grylle,Florida,290577
+Cepphus columba,Missouri,743106
+Ptychoramphus aleuticus,District of Columbia,423501
+Aethia psittacula,West Virginia,298297
+Aethia pusilla,Kansas,807721
+Aethia pygmaea,New Hampshire,750801
+Aethia cristatella,Florida,583899
+Cerorhinca monocerata,Alabama,761049
+Fratercula arctica,Massachusetts,464616
+Fratercula corniculata,Minnesota,431249
+Fratercula cirrhata,Texas,616271
+Creagrus furcatus,Florida,94323
+Rissa tridactyla,Illinois,522113
+Rissa brevirostris,North Carolina,176134
+Pagophila eburnea,South Carolina,974556
+Xema sabini,South Carolina,701043
+Chroicocephalus philadelphia,Minnesota,372224
+Chroicocephalus cirrocephalus,Ohio,619073
+Chroicocephalus ridibundus,Florida,912532
+Hydrocoloeus minutus,North Carolina,814079
+Rhodostethia rosea,Texas,396067
+Leucophaeus modestus,District of Columbia,671405
+Leucophaeus atricilla,Minnesota,727804
+Leucophaeus pipixcan,West Virginia,300631
+Phaetusa simplex,New York,518170
+Gelochelidon nilotica,Minnesota,703499
+Hydroprogne caspia,Texas,751451
+Larosterna inca,Maryland,391471
+Chlidonias niger,Virginia,998149
+Chlidonias leucopterus,Arkansas,742537
+Chlidonias hybrida,Washington,50652
+Sterna dougallii,Florida,632090
+Sterna hirundo,California,95987
+Thalasseus elegans,Ohio,243738
+Rynchops niger,California,175560
+Eurypyga helias,Missouri,762903
+Phaethon lepturus,Indiana,675264
+Phaethon aethereus,New York,843885
+Phaethon rubricauda,Alabama,810019
+Gavia stellata,District of Columbia,578153
+Gavia arctica,Michigan,250434
+Gavia pacifica,Texas,255459
+Gavia immer,Alabama,139423
+Gavia adamsii,Virginia,351226
+Thalassarche cauta,District of Columbia,70759
+Phoebastria nigripes,Georgia,48682
+Phoebastria irrorata,Virginia,423778
+Phoebastria albatrus,California,100459
+Oceanites oceanicus,California,668775
+Pelagodroma marina,Oregon,507803
+Fregetta tropica,Colorado,480107
+Hydrobates macrodactylus,District of Columbia,842933
+Hydrobates markhami,Arizona,365571
+Hydrobates tristrami,Michigan,784841
+Hydrobates microsoma,New York,216016
+Procellaria aequinoctialis,Texas,691379
+Procellaria parkinsoni,North Carolina,207456
+Calonectris leucomelas,Connecticut,283330
+Calonectris diomedea,Pennsylvania,161926
+Calonectris edwardsii,Nevada,496310
+Ardenna pacifica,Kansas,778670
+Ardenna bulleri,California,910508
+Puffinus puffinus,Idaho,760237
+Puffinus auricularis,North Carolina,429755
+Puffinus newelli,Virginia,443500
+Puffinus bryani,New York,527114
+Puffinus opisthomelas,Colorado,366159
+Puffinus lherminieri,Florida,902749
+Puffinus baroli,Arkansas,486808
+Ciconia maguari,Kentucky,246229
+Jabiru mycteria,North Carolina,627088
+Mycteria americana,Louisiana,451032
+Fregata ariel,Michigan,569983
+Fregata magnificens,Louisiana,812178
+Fregata minor,Washington,662382
+Sula dactylatra,Pennsylvania,674798
+Sula granti,Texas,549237
+Sula nebouxii,Florida,160857
+Sula variegata,New York,127943
+Phalacrocorax urile,Pennsylvania,706109
+Phalacrocorax pelagicus,Indiana,318750
+Phalacrocorax auritus,Arizona,443123
+Phalacrocorax brasilianus,Virginia,534690
+Nannopterum auritum,Nevada,583494
+Pelecanus erythrorhynchos,Massachusetts,273979
+Pelecanus occidentalis,Colorado,126781
+Botaurus pinnatus,Georgia,860194
+Botaurus lentiginosus,Kentucky,53685
+Ardea herodias,Wisconsin,634687
+Ardea cinerea,Ohio,456745
+Ardea cocoi,District of Columbia,135439
+Ardea purpurea,Florida,782436
+Ardea alba,Louisiana,739462
+Bubulcus ibis,Utah,519351
+Ardeola bacchus,California,520990
+Butorides virescens,Washington,140500
+Butorides striata,Pennsylvania,994259
+Agamia agami,California,235551
+Pilherodius pileatus,California,449165
+Nycticorax nycticorax,District of Columbia,420006
+Nyctanassa violacea,Tennessee,617972
+Cochlearius cochlearius,Texas,618623
+Eudocimus albus,Virginia,799431
+Eudocimus ruber,North Carolina,531649
+Plegadis falcinellus,Indiana,252651
+Plegadis chihi,California,238261
+Mesembrinibis cayennensis,California,605790
+Theristicus caudatus,Indiana,976171
+Platalea leucorodia,District of Columbia,64656
+Platalea ajaja,Texas,817597
+Gymnogyps californianus,Illinois,237070
+Sarcoramphus papa,Florida,478064
+Coragyps atratus,California,518510
+Cathartes aura,Pennsylvania,631532
+Cathartes burrovianus,Florida,53364
+Pandion haliaetus,Nevada,246182
+Gampsonyx swainsonii,North Carolina,261832
+Elanus leucurus,Florida,97780
+Chondrohierax uncinatus,New York,674088
+Leptodon cayanensis,Texas,331458
+Elanoides forficatus,New York,604202
+Morphnus guianensis,Virginia,290515
+Harpia harpyja,Pennsylvania,523909
+Aquila chrysaetos,Ohio,459901
+Accipiter striatus,Illinois,652162
+Accipiter cooperii,Florida,674551
+Accipiter gundlachi,California,963801
+Accipiter bicolor,Illinois,960947
+Accipiter gentilis,Colorado,1239
+Milvus migrans,Indiana,747721
+Haliaeetus leucocephalus,Florida,460138
+Haliaeetus pelagicus,Kansas,820705
+Ictinia mississippiensis,Louisiana,320109
+Ictinia plumbea,Illinois,176505
+Busarellus nigricollis,Ohio,535177
+Geranospiza caerulescens,Colorado,220650
+Rostrhamus sociabilis,Georgia,207298
+Helicolestes hamatus,Maryland,997818
+Cryptoleucopteryx plumbea,New York,597664
+Buteogallus anthracinus,Ohio,793773
+Buteogallus gundlachii,Minnesota,206674
+Buteogallus meridionalis,California,794571
+Buteogallus urubitinga,California,760123
+Buteogallus solitarius,California,81292
+Buteo brachyurus,Michigan,506111
+Buteo swainsoni,Michigan,442271
+Buteo jamaicensis,Illinois,564958
+Buteo lagopus,Mississippi,992306
+Buteo regalis,Indiana,475649
+Buteo rufinus,Georgia,798873
+Tyto alba,Wisconsin,503556
+Tyto glaucops,Louisiana,562555
+Otus sunia,Alabama,760981
+Psiloscops flammeolus,South Carolina,820169
+Gymnasio nudipes,North Carolina,342724
+Megascops trichopsis,Georgia,989011
+Megascops clarkii,Indiana,40655
+Megascops choliba,Wisconsin,798954
+Megascops barbarus,Illinois,137434
+Glaucidium siju,Virginia,922090
+Micrathene whitneyi,Virginia,180126
+Ciccaba virgata,Maryland,680732
+Ciccaba nigrolineata,California,789960
+Strix occidentalis,Ohio,524679
+Strix varia,Mississippi,796421
+Strix sartorii,Missouri,985748
+Strix fulvescens,California,90938
+Asio otus,New York,775068
+Asio stygius,Florida,20805
+Asio flammeus,Michigan,948370
+Asio clamator,Utah,620839
+Asio grammicus,Indiana,573793
+Pseudoscops clamator,Colorado,724771
+Pseudoscops grammicus,New York,900969
+Aegolius funereus,Michigan,109675
+Aegolius acadicus,Texas,468104
+Aegolius ridgwayi,California,273267
+Ninox japonica,Iowa,555366
+Priotelus temnurus,Alaska,719834
+Priotelus roseigaster,Florida,628555
+Trogon rufus,Texas,351203
+Trogon elegans,Georgia,578255
+Trogon collaris,New York,93246
+Euptilotis neoxenus,Georgia,823313
+Pharomachrus auriceps,Missouri,648298
+Pharomachrus mocinno,Alabama,898612
+Upupa epops,Kentucky,807935
+Todus multicolor,Ohio,599111
+Todus subulatus,Kentucky,38604
+Todus angustirostris,Massachusetts,846724
+Todus todus,Missouri,978892
+Todus mexicanus,California,980381
+Hylomanes momotula,New York,289711
+Aspatha gularis,North Carolina,110572
+Momotus mexicanus,New York,129190
+Momotus coeruliceps,Arizona,394969
+Chloroceryle amazona,Texas,400399
+Chloroceryle aenea,Arizona,761562
+Chloroceryle americana,Ohio,337543
+Chloroceryle inda,Massachusetts,273604
+Nystalus radiatus,California,605701
+Notharchus hyperrhynchus,Illinois,234351
+Notharchus pectoralis,Texas,269738
+Notharchus tectus,Georgia,376903
+Malacoptila panamensis,Alabama,804861
+Micromonacha lanceolata,Ohio,806856
+Nonnula frontalis,Alabama,13062
+Monasa morphoeus,Nevada,660449
+Brachygalba salmoni,Kansas,573882
+Melanerpes erythrocephalus,District of Columbia,563335
+Melanerpes formicivorus,Texas,455017
+Melanerpes chrysauchen,Tennessee,67495
+Melanerpes pucherani,Virginia,584004
+Melanerpes striatus,Alabama,432069
+Melanerpes radiolatus,Ohio,275852
+Melanerpes chrysogenys,Florida,970879
+Melanerpes hypopolius,Iowa,240081
+Melanerpes pygmaeus,Colorado,407846
+Caracara plancus,Kansas,896816
+Caracara cheriway,Florida,133452
+Caracara lutosa,Washington,696474
+Milvago chimachima,Texas,69718
+Falco femoralis,Alabama,285935
+Falco rufigularis,New York,962691
+Falco deiroleucus,Florida,948785
+Falco rusticolus,New Jersey,76253
+Falco peregrinus,Maryland,217257
+Falco mexicanus,Michigan,842929
+Myiobius sulphureipygius,Washington,176564
+Myiobius atricaudus,New Jersey,42833
+Piprites griseiceps,New Mexico,82306
+Platyrinchus cancrominus,Texas,696330
+Platyrinchus mystaceus,New York,943405
+Platyrinchus coronatus,Tennessee,369894
+Mionectes olivaceus,West Virginia,726647
+Leptopogon amaurocephalus,Oklahoma,430037
+Leptopogon superciliaris,California,350063
+Phylloscartes superciliaris,Indiana,634084
+Pseudotriccus pelzelni,Arizona,198959
+Myiornis atricapillus,District of Columbia,408222
+Lophotriccus pileatus,Virginia,183964
+Lophotriccus pilaris,South Carolina,168965
+Oncostoma cinereigulare,Washington,875382
+Oncostoma olivaceum,Pennsylvania,880043
+Poecilotriccus sylvia,Florida,729642
+Todirostrum cinereum,Ohio,103816
+Todirostrum nigriceps,California,270149
+Cnipodectes subbrunneus,Minnesota,866412
+Rhynchocyclus brevirostris,Louisiana,721828
+Rhynchocyclus olivaceus,North Carolina,195548
+Tolmomyias sulphurescens,California,819885
+Tolmomyias assimilis,North Carolina,155638
+Tolmomyias flaviventris,California,159022
+Ornithion brunneicapillus,West Virginia,744963
+Camptostoma imberbe,Michigan,658074
+Camptostoma obsoletum,District of Columbia,821658
+Nesotriccus ridgwayi,Florida,125405
+Nesotriccus murinus,South Carolina,691597
+Capsiempis flaveola,California,288390
+Tyrannulus elatus,Nebraska,370148
+Myiopagis caniceps,Minnesota,112144
+Myiopagis cotta,Florida,760515
+Myiopagis viridicata,Minnesota,845756
+Elaenia martinica,California,712133
+Elaenia flavogaster,North Carolina,321360
+Elaenia albiceps,Texas,679749
+Elaenia chiriquensis,Florida,621944
+Elaenia frantzii,Missouri,924533
+Elaenia fallax,Tennessee,330161
+Phyllomyias burmeisteri,Florida,910527
+Phyllomyias griseiceps,Texas,987089
+Zimmerius vilissimus,Ohio,868195
+Zimmerius parvus,Florida,903752
+Myiarchus yucatanensis,Texas,218616
+Myiarchus barbirostris,New York,921520
+Myiarchus nuttingi,Florida,493409
+Myiarchus crinitus,Texas,8246
+Myiarchus tyrannulus,Texas,314427
+Myiarchus nugator,Indiana,833873
+Myiarchus validus,Oklahoma,51717
+Myiarchus sagrae,Florida,669513
+Myiarchus stolidus,Texas,584072
+Myiarchus antillarum,Massachusetts,722456
+Myiarchus oberi,Maryland,902696
+Empidonax alnorum,Arizona,507290
+Empidonax traillii,Texas,987894
+Empidonax minimus,Virginia,346640
+Empidonax hammondii,Idaho,383080
+Empidonax affinis,Virginia,288429
+Empidonax occidentalis,Rhode Island,204720
+Sayornis nigricans,Virginia,725071
+Sayornis phoebe,Nebraska,942394
+Sayornis saya,California,364274
+Pyrocephalus rubinus,California,999648
+Fluvicola pica,California,146472
+Sublegatus arenarum,Texas,379475
+Colonia colonus,District of Columbia,393097
+Pittasoma michleri,California,264757
+Cymbilaimus lineatus,Texas,473093
+Taraba major,Florida,343785
+Thamnophilus doliatus,Massachusetts,913572
+Thamnophilus nigriceps,New York,281378
+Thamnophilus bridgesi,Idaho,979828
+Thamnophilus atrinucha,Connecticut,982823
+Xenornis setifrons,California,912684
+Thamnistes anabatinus,Virginia,551294
+Dysithamnus mentalis,New York,313841
+Myrmeciza zeledoni,California,57809
+Poliocrania exsul,California,923117
+Sipia laemosticta,Ohio,938718
+Hylophylax naevioides,Kentucky,491296
+Myrmornis torquata,Ohio,844074
+Gymnopithys bicolor,Georgia,947553
+Phaenostictus mcleannani,Connecticut,831465
+Grallaria guatimalensis,Tennessee,35841
+Hylopezus perspicillatus,New York,832345
+Hylopezus dives,Georgia,994676
+Grallaricula flavirostris,California,750260
+Scytalopus panamensis,Texas,322168
+Scytalopus chocoensis,Iowa,461908
+Scytalopus argentifrons,New York,958598
+Formicarius moniliger,Virginia,945616
+Formicarius analis,District of Columbia,527862
+Formicarius nigricapillus,North Carolina,478084
+Formicarius rufipectus,California,239394
+Sclerurus mexicanus,New York,134301
+Sclerurus albigularis,Illinois,144008
+Sclerurus guatemalensis,Indiana,632354
+Sittasomus griseicapillus,Virginia,169101
+Deconychura longicauda,Oklahoma,923231
+Dendrocincla homochroa,Iowa,755728
+Dendrocincla anabatina,Minnesota,903032
+Dendrocincla fuliginosa,Pennsylvania,227157
+Glyphorynchus spirurus,Minnesota,638610
+Dendrocolaptes sanctithomae,Alabama,946088
+Dendrocolaptes picumnus,District of Columbia,491567
+Automolus exsertus,Texas,281502
+Automolus subulatus,California,171192
+Lanius cristatus,Arizona,293237
+Lanius collurio,Virginia,859030
+Lanius ludovicianus,Utah,217022
+Lanius borealis,Kentucky,299801
+Cyanolyca mirabilis,California,614436
+Cyanolyca nanus,California,91774
+Cyanolyca pumilo,Massachusetts,830453
+Cyanolyca argentigula,California,712674
+Cyanocitta stelleri,Missouri,2660
+Cyanocitta cristata,Minnesota,928781
+Aphelocoma woodhouseii,Alabama,501605
+Aphelocoma ultramarina,California,648961
+Aphelocoma wollweberi,Louisiana,966578
+Aphelocoma unicolor,California,665283
+Pica hudsonia,California,238262
+Pica nuttalli,Pennsylvania,543700
+Corvus monedula,New York,673646
+Corvus frugilegus,Pennsylvania,964530
+Corvus brachyrhynchos,Georgia,719495
+Corvus cornix,Maryland,436771
+Corvus sinaloae,Florida,769111
+Corvus ossifragus,Louisiana,7757
+Corvus corax,Wisconsin,837074
+Auriparus flaviceps,Mississippi,722359
+Poecile carolinensis,North Carolina,3921
+Poecile atricapillus,Oregon,817445
+Poecile gambeli,West Virginia,70826
+Poecile sclateri,Texas,571505
+Poecile rufescens,Pennsylvania,194126
+Poecile hudsonicus,Pennsylvania,945287
+Baeolophus wollweberi,Ohio,968937
+Baeolophus inornatus,Minnesota,701218
+Baeolophus ridgwayi,Illinois,821306
+Baeolophus bicolor,Minnesota,61277
+Baeolophus atricristatus,Florida,406929
+Alauda arvensis,Missouri,753461
+Eremophila alpestris,District of Columbia,73635
+Acrocephalus familiaris,California,75439
+Acrocephalus schoenobaenus,Tennessee,405152
+Acrocephalus dumetorum,Texas,618393
+Donacobius atricapilla,New York,553437
+Riparia riparia,South Carolina,884613
+Tachycineta bicolor,Michigan,778850
+Tachycineta euchrysea,California,304570
+Tachycineta albilinea,Louisiana,748131
+Atticora pileata,Indiana,464911
+Atticora tibialis,Missouri,87994
+Delichon urbicum,Minnesota,941612
+Petrochelidon pyrrhonota,North Carolina,863862
+Petrochelidon fulva,Indiana,871139
+Psaltriparus minimus,North Carolina,421873
+Pycnonotus cafer,Colorado,599360
+Pycnonotus jocosus,District of Columbia,479086
+Sitta canadensis,Michigan,477909
+Sitta carolinensis,Maryland,754402
+Sitta pygmaea,Connecticut,194169
+Sitta pusilla,Tennessee,281729
+Sitta insularis,Louisiana,445567
+Certhia americana,California,733093
+Ramphocaenus melanurus,Texas,599976
+Polioptila caerulea ,Ohio,187095
+Polioptila melanura,Nebraska,88933
+Polioptila nigriceps,North Carolina,125068
+Polioptila albiloris,Arkansas,315286
+Microcerculus philomela,Washington,46298
+Microcerculus marginatus,Alabama,605150
+Cistothorus stellaris,Indiana,508990
+Cistothorus palustris,Louisiana,466474
+Cantorchilus elutus,Texas,824076
+Cantorchilus nigricapillus,North Carolina,528027
+Cantorchilus semibadius,Pennsylvania,696997
+Cantorchilus leucotis,New York,315833
+Henicorhina leucosticta,Hawaii,850697
+Henicorhina leucophrys,Michigan,830851
+Cyphorhinus phaeocephalus,Florida,44316
+Melanotis hypoleucus,Virginia,654725
+Melanoptila glabrirostris,Alabama,911372
+Dumetella carolinensis,California,821562
+Ramphocinclus brachyurus,Arizona,362433
+Allenia fusca,Florida,172935
+Margarops fuscatus,Indiana,38533
+Cinclocerthia ruficauda,Texas,152687
+Cinclocerthia gutturalis,Missouri,296314
+Toxostoma bendirei,Arizona,232596
+Toxostoma cinereum,Kentucky,114168
+Toxostoma redivivum,Arizona,970137
+Toxostoma lecontei,Alabama,252197
+Toxostoma crissale,Ohio,802318
+Mimus polyglottos,Colorado,371311
+Sturnus vulgaris,Georgia,587988
+Acridotheres tristis,Missouri,971756
+Cinclus mexicanus,California,279066
+Sialia sialis,West Virginia,983383
+Sialia mexicana,Ohio,110124
+Sialia currucoides,Missouri,621581
+Myadestes townsendi,Tennessee,915124
+Myadestes elisabeth,North Carolina,166872
+Myadestes genibarbis,California,695781
+Zoothera aurea,Missouri,496645
+Catharus gracilirostris,California,794557
+Catharus aurantiirostris,Texas,86724
+Catharus dryas,California,27983
+Catharus fuscescens,Texas,987584
+Catharus minimus,Indiana,723673
+Catharus bicknelli,Arizona,300460
+Catharus ustulatus,Kansas,333454
+Catharus guttatus,California,593627
+Hylocichla mustelina,Tennessee,91560
+Turdus viscivorus,California,207266
+Turdus rufopalliatus,Minnesota,168942
+Turdus rufitorques,California,429427
+Turdus migratorius,Nevada,729913
+Turdus aurantius,Connecticut,712468
+Turdus ravidus,District of Columbia,749375
+Turdus plumbeus,New York,455429
+Turdus lherminieri,District of Columbia,578023
+Ixoreus naevius,South Carolina,500889
+Muscicapa griseisticta,Indiana,372023
+Muscicapa dauurica,Florida,877424
+Muscicapa sibirica,Florida,532801
+Copsychus malabaricus,Alabama,799750
+Erithacus rubecula,Ohio,20751
+Larvivora cyane,Colorado,822332
+Larvivora sibilans,Maryland,662180
+Cyanecula svecica,Texas,805723
+Ploceus cucullatus,District of Columbia,551146
+Euplectes franciscanus,Virginia,782265
+Euplectes afer,Ohio,146405
+Vidua macroura,Georgia,67996
+Spermestes cucullata,Nevada,532916
+Euodice cantans,Texas,918826
+Euodice malabarica,Florida,496210
+Padda oryzivora,California,568782
+Lonchura punctulata,California,611890
+Lonchura malacca,New York,966788
+Lonchura atricapilla,Louisiana,973935
+Lonchura oryzivora,Maryland,419254
+Amandava amandava,District of Columbia,749133
+Motacilla citreola,Virginia,126997
+Motacilla cinerea,Alabama,898873
+Anthus rubescens,Vermont,623893
+Anthus pratensis,Alabama,157690
+Anthus spragueii,Florida,515301
+Anthus lutescens,Maryland,82186
+Fringilla coelebs,Virginia,816191
+Fringilla montifringilla,Tennessee,883859
+Chlorophonia elegantissima,Texas,748941
+Chlorophonia musica,Missouri,201392
+Chlorophonia flavirostris,Mississippi,437963
+Chlorophonia occipitalis,Oklahoma,904200
+Chlorophonia callophrys,Colorado,453346
+Euphonia affinis,Ohio,752526
+Euphonia imitans,California,971832
+Loxioides bailleui,Alabama,34161
+Telespiza cantans,New York,383138
+Telespiza ultima,District of Columbia,48935
+Rhodacanthis flaviceps,Texas,780619
+Rhodacanthis palmeri,Texas,825198
+Ciridops anna,California,902494
+Palmeria dolei,West Virginia,106695
+Himatione fraithii,Georgia,999710
+Himatione sanguinea,North Carolina,339537
+Drepanis coccinea,Florida,587034
+Drepanis pacifica,Florida,810872
+Drepanis funerea,Colorado,950541
+Psittirostra psittacea,Minnesota,78503
+Dysmorodrepanis munroi,Pennsylvania,207994
+Pseudonestor xanthophrys,Nebraska,357839
+Spinus psaltria,Florida,879984
+Spinus tristis,Arkansas,159158
+Rhodinocichla rosea,California,478117
+Calcarius lapponicus,California,254194
+Calcarius ornatus,Nevada,445868
+Calcarius pictus,Georgia,280736
+Rhynchophanes mccownii,Washington,741589
+Plectrophenax nivalis,Kansas,579312
+Plectrophenax hyperboreus,Nevada,499097
+Emberiza leucocephalos,Colorado,675677
+Emberiza pusilla,California,839045
+Emberiza rustica,Texas,413404
+Peucaea carpalis,Wisconsin,615703
+Peucaea sumichrasti,Alabama,756282
+Peucaea ruficauda,Louisiana,977607
+Peucaea humeralis,North Carolina,402176
+Peucaea mystacalis,Texas,528873
+Peucaea botterii,Michigan,95988
+Peucaea cassinii,West Virginia,218542
+Peucaea aestivalis,Texas,265520
+Ammodramus savannarum,Missouri,475340
+Arremonops rufivirgatus,Florida,437810
+Arremonops chloronotus,New York,171581
+Arremonops conirostris,Georgia,341297
+Amphispizopsis quinquestriata,New York,776596
+Amphispiza quinquestriata,Texas,371760
+Amphispiza bilineata,Texas,895132
+Spizella passerina,Minnesota,130799
+Spizella pallida,Illinois,158862
+Spizella atrogularis,Florida,55742
+Spizella pusilla,California,492958
+Spizella breweri,Ohio,198634
+Spizelloides arborea,Ohio,312421
+Junco vulcani,Maryland,213692
+Junco insularis,California,657158
+Junco hyemalis,California,184340
+Junco bairdi,Iowa,994494
+Zonotrichia capensis,Florida,922783
+Zonotrichia leucophrys,Kansas,576409
+Zonotrichia atricapilla,Kentucky,386037
+Zonotrichia querula,Georgia,930897
+Zonotrichia albicollis,California,929749
+Artemisiospiza nevadensis,Indiana,410486
+Artemisiospiza belli,Tennessee,778251
+Melozone crissalis,Washington,490529
+Melozone leucotis,Florida,943869
+Melozone biarcuata,Pennsylvania,545821
+Melozone cabanisi,Georgia,592082
+Aimophila rufescens,New York,818176
+Aimophila ruficeps,California,779678
+Aimophila notosticta,Missouri,994217
+Pipilo chlorurus,California,285701
+Pipilo maculatus,Florida,70882
+Pipilo erythrophthalmus,Florida,323506
+Pipilo ocai,Indiana,86287
+Atlapetes pileatus,Texas,915864
+Atlapetes albinucha,Minnesota,836508
+Atlapetes tibialis,California,556441
+Atlapetes luteoviridis,New York,92017
+Calyptophilus tertius,Louisiana,672618
+Calyptophilus frugivorus,Florida,528461
+Zeledonia coronata,Texas,211833
+Phaenicophilus palmarum,Virginia,183091
+Phaenicophilus poliocephalus,Louisiana,178021
+Sturnella neglecta,Virginia,128475
+Psarocolius decumanus,Tennessee,914350
+Psarocolius wagleri,Pennsylvania,153122
+Icterus maculialatus,Florida,811493
+Icterus spurius,Louisiana,341958
+Icterus cucullatus,California,606897
+Icterus pectoralis,Pennsylvania,242498
+Agelaius humeralis,Pennsylvania,708801
+Agelaius xanthomus,North Carolina,466677
+Molothrus aeneus,Kentucky,452909
+Molothrus ater,New York,585072
+Molothrus oryzivorus,Wisconsin,897796
+Euphagus carolinus,California,938693
+Euphagus cyanocephalus,Iowa,745055
+Quiscalus quiscula,West Virginia,186322
+Quiscalus major,Texas,447826
+Quiscalus lugubris,Nevada,635706
+Chrysomus icterocephalus,Florida,38654
+Setophaga dominica,Pennsylvania,129033
+Setophaga flavescens,Nevada,107910
+Setophaga vitellina,Oklahoma,459857
+Setophaga discolor,Utah,617083
+Setophaga adelaidae,Illinois,787922
+Setophaga subita,North Carolina,448505
+Setophaga delicata,Rhode Island,549262
+Setophaga graciae,Tennessee,827426
+Setophaga nigrescens,Florida,8218
+Setophaga townsendi,New York,32907
+Setophaga occidentalis,Florida,371012
+Setophaga chrysoparia,Michigan,990332
+Setophaga virens,Arizona,870046
+Cardellina canadensis,Mississippi,964285
+Cardellina pusilla,Pennsylvania,805819
+Cardellina rubrifrons,Minnesota,36511
+Cardellina rubra,Kansas,130207
+Cardellina versicolor,Pennsylvania,904226
+Myioborus pictus,Connecticut,462040
+Myioborus miniatus,District of Columbia,528896
+Myioborus torquatus,Iowa,484581
+Habia rubica,Pennsylvania,105984
+Habia fuscicauda,Florida,782767
+Habia atrimaxillaris,Minnesota,71026
+Chlorothraupis carmioli,Florida,981578
+Chlorothraupis olivacea,Colorado,468905
+Caryothraustes poliogaster,California,705338
+Caryothraustes canadensis,Florida,993909
+Haplospiza rustica,Virginia,827999
+Acanthidops bairdi,California,65696
+Diglossa baritula,California,606679
+Diglossa plumbea,Louisiana,151638
+Cyanerpes lucidus,North Carolina,239161
+Cyanerpes caeruleus,Ohio,95853
+Cyanerpes cyaneus,Michigan,31400
+Dacnis venusta,California,462232
+Dacnis cayana,Georgia,328333
+Euneornis campestris,Florida,143883
+Melopyrrha portoricensis,California,636290
+Melopyrrha grandis,Ohio,119570
+Melopyrrha nigra,New York,771701
+Melopyrrha violacea,Montana,781009
+Melanospiza bicolor,California,503493
+Melanospiza richardsoni,Iowa,335727
+Pinaroloxias inornata,Virginia,640494
+Sporophila lineola,Ohio,159348
+Sporophila funerea,Illinois,852358
+Sporophila crassirostris,Texas,836238
+Sporophila nuttingi,Florida,645710
+Sporophila corvina,California,778420
+Spermestes cucullata,Tennessee,453809
+Euodice cantans,Minnesota,711212
+Euodice malabarica,Kentucky,338044
+Padda oryzivora,District of Columbia,722651
+Lonchura punctulata,District of Columbia,199166
+Lonchura malacca,Pennsylvania,358761
+Lonchura atricapilla,South Carolina,435488
+Lonchura oryzivora,California,580869
+Amandava amandava,Ohio,235360
+Motacilla citreola,Wisconsin,419857
+Motacilla cinerea,Indiana,843778
+Motacilla alba,Texas,786565
+Anthus trivialis,Maryland,466674
+Anthus rubescens,Georgia,135843
+Anthus pratensis,Florida,279768
+Anthus spragueii,Texas,709012
+Anthus lutescens,Texas,343117
+Fringilla coelebs,Alabama,296225
+Fringilla montifringilla,Nevada,289415
+Chlorophonia elegantissima,Florida,469662
+Chlorophonia musica,Texas,785015
+Chlorophonia flavirostris,Alaska,803042
+Chlorophonia occipitalis,Ohio,979271
+Chlorophonia callophrys,New York,324444
+Euphonia affinis,New Mexico,852634
+Euphonia laniirostris,New York,608073
+Euphonia imitans,Colorado,122278
+Euphonia fulvicrissa,Pennsylvania,596558
+Loxioides bailleui,New Mexico,315984
+Telespiza cantans,California,62381
+Telespiza ultima,Washington,261985
+Chloridops kona,California,853623
+Rhodacanthis flaviceps,California,280531
+Rhodacanthis palmeri,California,394280
+Ciridops anna,Missouri,804096
+Palmeria dolei,Alabama,908662
+Himatione fraithii,Delaware,838400
+Himatione sanguinea,California,840218
+Drepanis coccinea,Arizona,888815
+Drepanis pacifica,Michigan,684378
+Drepanis funerea,California,162493
+Psittirostra psittacea,Georgia,130329
+Dysmorodrepanis munroi,Kentucky,14960
+Pseudonestor xanthophrys,Tennessee,243315
+Spinus psaltria,Virginia,946654
+Spinus tristis,Washington,739984
+Rhodinocichla rosea,North Carolina,329245
+Calcarius lapponicus,District of Columbia,114610
+Calcarius ornatus,California,716497
+Calcarius pictus,Illinois,11620
+Rhynchophanes mccownii,Florida,504522
+Plectrophenax nivalis,Texas,1255
+Plectrophenax hyperboreus,Texas,829228
+Emberiza leucocephalos,Connecticut,78851
+Emberiza pusilla,Georgia,588522
+Emberiza rustica,Florida,939893
+Peucaea carpalis,Florida,54921
+Peucaea sumichrasti,Oregon,444141
+Peucaea ruficauda,Ohio,979093
+Peucaea humeralis,Kansas,216027
+Peucaea mystacalis,Washington,998740
+Peucaea botterii,Pennsylvania,936222
+Peucaea cassinii,Texas,966053
+Peucaea aestivalis,Colorado,235689
+Ammodramus savannarum,Massachusetts,363383
+Arremonops rufivirgatus,Arizona,370629
+Arremonops chloronotus,Texas,16940
+Arremonops conirostris,California,582358
+Amphispizopsis quinquestriata,Ohio,592562
+Amphispiza quinquestriata,Nevada,863618
+Amphispiza bilineata,Arkansas,480295
+Chondestes grammacus,Illinois,318362
+Calamospiza melanocorys,Florida,823016
+Spizella passerina,North Carolina,933929
+Spizella pallida,Kansas,52011
+Spizella atrogularis,Rhode Island,868752
+Spizella pusilla,Florida,750542
+Spizella breweri,Massachusetts,57562
+Spizella wortheni,California,884339
+Spizelloides arborea,New York,25993
+Junco vulcani,Nevada,93642
+Junco insularis,New Mexico,934131
+Junco hyemalis,Louisiana,270007
+Junco phaeonotus,Florida,634651
+Junco bairdi,Arizona,211480
+Zonotrichia capensis,Texas,134605
+Zonotrichia leucophrys,Georgia,151883
+Zonotrichia atricapilla,Texas,33296
+Zonotrichia querula,Florida,841120
+Zonotrichia albicollis,Connecticut,981328
+Artemisiospiza nevadensis,Connecticut,242308
+Artemisiospiza belli,California,986467
+Melozone crissalis,Louisiana,542124
+Melozone leucotis,District of Columbia,444823
+Melozone biarcuata,California,607984
+Melozone cabanisi,Virginia,789434
+Aimophila rufescens,Michigan,824888
+Aimophila ruficeps,Texas,104980
+Aimophila notosticta,Connecticut,861261
+Pipilo chlorurus,New York,524432
+Pipilo maculatus,Colorado,251085
+Pipilo erythrophthalmus,Illinois,138309
+Pipilo ocai,Utah,692435
+Atlapetes pileatus,Colorado,952481
+Atlapetes albinucha,Georgia,465378
+Atlapetes tibialis,Wisconsin,604511
+Atlapetes luteoviridis,Kansas,167309
+Calyptophilus tertius,Florida,104036
+Calyptophilus frugivorus,Oregon,887597
+Zeledonia coronata,Florida,812142
+Phaenicophilus palmarum,Pennsylvania,522110
+Phaenicophilus poliocephalus,Texas,863052
+Sturnella magna,Ohio,436288
+Sturnella neglecta,Hawaii,153689
+Psarocolius decumanus,Illinois,855536
+Psarocolius wagleri,Texas,480085
+Psarocolius montezuma,Florida,510287
+Psarocolius guatimozinus,Texas,671314
+Icterus maculialatus,Alabama,760910
+Icterus spurius,Alabama,559117
+Icterus cucullatus,Texas,358941
+Icterus pectoralis,Oklahoma,449005
+Agelaius humeralis,California,670337
+Agelaius xanthomus,New York,539920
+Molothrus bonariensis,Texas,215620
+Molothrus aeneus,Nevada,428434
+Molothrus ater,Connecticut,209973
+Molothrus oryzivorus,Texas,546950
+Euphagus carolinus,Pennsylvania,607137
+Euphagus cyanocephalus,Texas,627778
+Quiscalus quiscula,North Carolina,274859
+Quiscalus major,New Jersey,98695
+Quiscalus lugubris,Wisconsin,842276
+Chrysomus icterocephalus,Pennsylvania,600783
+Catharopeza bishopi,Texas,444264
+Setophaga dominica,Louisiana,435581
+Setophaga flavescens,Florida,858799
+Setophaga vitellina,Colorado,41130
+Setophaga discolor,Texas,268435
+Setophaga adelaidae,California,43333
+Setophaga subita,Illinois,710821
+Setophaga delicata,Nevada,340240
+Setophaga graciae,Ohio,505244
+Setophaga nigrescens,Ohio,213492
+Setophaga townsendi,Florida,363706
+Setophaga occidentalis,Iowa,672460
+Setophaga chrysoparia,Oklahoma,638728
+Setophaga virens,California,852242
+Cardellina canadensis,Minnesota,93319
+Cardellina rubrifrons,Kansas,146083
+Cardellina rubra,Colorado,984181
+Cardellina versicolor,Washington,144624
+Myioborus pictus,Minnesota,398136
+Myioborus miniatus,Oregon,394640
+Myioborus torquatus,New York,148874
+Habia rubica,New Mexico,354575
+Habia fuscicauda,Minnesota,608257
+Habia atrimaxillaris,New Jersey,149699
+Chlorothraupis carmioli,Oklahoma,293407
+Chlorothraupis olivacea,New York,814211
+Caryothraustes canadensis,Michigan,768240
+Haplospiza rustica,Florida,472055
+Acanthidops bairdi,Virginia,892501
+Diglossa baritula,Oklahoma,977637
+Diglossa plumbea,Pennsylvania,535642
+Cyanerpes lucidus,Texas,544410
+Cyanerpes caeruleus,Alabama,439536
+Cyanerpes cyaneus,Minnesota,527466
+Dacnis cayana,Oklahoma,920122
+Euneornis campestris,Georgia,119209
+Melopyrrha portoricensis,District of Columbia,727415
+Melopyrrha grandis,Texas,137095
+Melopyrrha nigra,Arizona,395269
+Melopyrrha violacea,Texas,358480
+Melanospiza bicolor,Michigan,519648
+Melanospiza richardsoni,Ohio,908900
+Pinaroloxias inornata,Florida,715674
+Sporophila lineola,California,390462
+Sporophila funerea,Florida,797541
+Sporophila crassirostris,West Virginia,109988
+Sporophila nuttingi,Arizona,383048
+Sporophila corvina,Texas,257479
+Dendrocygna viduata,Alabama,321590
+Dendrocygna autumnalis,Iowa,488344
+Dendrocygna arborea,Texas,47306
+Dendrocygna bicolor,Louisiana,922137
+Anser canagicus,Arizona,251525
+Anser caerulescens,Missouri,726370
+Anser rossii,Missouri,294046
+Anser anser,Louisiana,276041
+Anser albifrons,Texas,568817
+Anser erythropus,Colorado,984261
+Anser fabalis,Tennessee,134332
+Anser serrirostris,Illinois,984753
+Anser brachyrhynchus,Virginia,783884
+Branta bernicla,Virginia,123796
+Branta leucopsis,California,761318
+Branta hutchinsii,Florida,776797
+Branta canadensis,Texas,662216
+Melanitta deglandi,Pennsylvania,434204
+Melanitta stejnegeri,New York,770921
+Melanitta nigra,California,637985
+Melanitta americana,California,776080
+Clangula hyemalis,Nevada,583005
+Bucephala albeola,Indiana,323956
+Bucephala clangula,California,566770
+Bucephala islandica,Florida,271521
+Mergellus albellus,Minnesota,443034
+Lophodytes cucullatus,California,886183
+Mergus merganser,Wisconsin,597628
+Mergus serrator,California,190693
+Nomonyx dominicus,Ohio,194603
+Oxyura jamaicensis,Missouri,650976
+Ortalis vetula,Oklahoma,926516
+Ortalis cinereiceps,Indiana,519278
+Ortalis ruficauda,New York,785215
+Ortalis wagleri,Virginia,319845
+Ortalis poliocephala,Maryland,176842
+Ortalis leucogastra,Georgia,166100
+Penelope purpurascens,New York,446945
+Chamaepetes unicolor,California,256629
+Penelopina nigra,Kentucky,63134
+Oreophasis derbianus,Texas,256181
+Crax rubra,New York,502729
+Numida meleagris,Louisiana,567029
+Rhynchortyx cinctus,New York,612835
+Oreortyx pictus,Texas,245967
+Dendrortyx leucophrys,Iowa,413172
+Dendrortyx macroura,Louisiana,824245
+Dendrortyx barbatus,Texas,161186
+Philortyx fasciatus,New York,181929
+Colinus virginianus,Oklahoma,60829
+Colinus nigrogularis,California,490106
+Colinus cristatus,Florida,524470
+Callipepla squamata,California,444160
+Callipepla douglasii,Minnesota,378166
+Callipepla gambelii,Kansas,160967
+Cyrtonyx montezumae,Ohio,26342
+Cyrtonyx ocellatus,Ohio,66846
+Dactylortyx thoracicus,Alabama,311267
+Odontophorus gujanensis,Ohio,623769
+Odontophorus melanotis,Georgia,470976
+Odontophorus dialeucos,South Dakota,173958
+Odontophorus leucolaemus,Texas,866224
+Odontophorus guttatus,Ohio,569991
+Meleagris gallopavo,California,970799
+Meleagris ocellata,Texas,240012
+Bonasa umbellus,New York,940087
+Falcipennis canadensis,Texas,254548
+Canachites canadensis,Louisiana,245611
+Lagopus lagopus,Georgia,510715
+Lagopus muta,Pennsylvania,853370
+Lagopus leucura,Montana,393334
+Centrocercus urophasianus,Washington,530168
+Centrocercus minimus,Virginia,61512
+Dendragapus obscurus,Oregon,863252
+Alectoris chukar,Texas,141521
+Coturnix japonica,Michigan,780774
+Pternistis erckelii,Colorado,133392
+Phoenicopterus ruber,New York,281012
+Tachybaptus dominicus,Alabama,676161
+Podilymbus podiceps,Massachusetts,413350
+Podilymbus gigas,Pennsylvania,628300
+Podiceps auritus,Hawaii,233699
+Podiceps grisegena,Washington,176492
+Podiceps nigricollis,Oklahoma,548002
+Aechmophorus occidentalis,North Carolina,826214
+Aechmophorus clarkii,Oregon,430638
+Pterocles exustus,Florida,66597
+Columba livia,New York,898868
+Columba palumbus,Utah,743995
+Patagioenas cayennensis,Kansas,370920
+Patagioenas speciosa,Minnesota,77617
+Patagioenas squamosa,Indiana,76386
+Patagioenas leucocephala,Washington,504468
+Patagioenas flavirostris,Kentucky,459273
+Patagioenas inornata,Pennsylvania,278941
+Patagioenas fasciata,New York,232550
+Patagioenas caribaea,Michigan,223678
+Patagioenas plumbea,Virginia,463022
+Patagioenas subvinacea,Florida,581066
+Patagioenas nigrirostris,Nevada,702778
+Patagioenas goodsoni,Minnesota,785584
+Streptopelia orientalis,Pennsylvania,893692
+Streptopelia roseogrisea,District of Columbia,46482
+Streptopelia turtur,Texas,885171
+Streptopelia decaocto,Florida,285726
+Streptopelia chinensis,North Carolina,74162
+Geopelia striata,Florida,458269
+Columbina inca,Texas,748668
+Columbina passerina,California,149988
+Columbina minuta,Connecticut,456131
+Columbina talpacoti,California,471513
+Claravis pretiosa,Ohio,629294
+Paraclaravis mondetoura,California,183042
+Starnoenas cyanocephala,West Virginia,758133
+Geotrygon versicolor,California,213505
+Zentrygon costaricensis,Illinois,422520
+Zentrygon lawrencii,Maryland,800532
+Zentrygon albifacies,Missouri,90092
+Zentrygon chiriquensis,Georgia,492938
+Zentrygon goldmani,Arizona,338731
+Zenaida asiatica,New Jersey,60581
+Zenaida aurita,Georgia,89292
+Zenaida auriculata,New York,701251
+Zenaida macroura,Massachusetts,745941
+Zenaida graysoni,Georgia,29413
+Coccyzus euleri,Arizona,78839
+Coccyzus minor,Oklahoma,752076
+Coccyzus ferrugineus,Texas,900947
+Coccyzus erythropthalmus,Ohio,977139
+Coccyzus lansbergi,Oklahoma,247174
+Coccyzus pluvialis,Florida,356654
+Coccyzus rufigularis,Texas,738240
+Coccyzus vetula,South Carolina,660458
+Coccyzus vieilloti,Florida,289806
+Coccyzus merlini,Florida,100962
+Coccyzus longirostris,Pennsylvania,696046
+Lurocalis semitorquatus,Minnesota,41303
+Chordeiles acutipennis,New York,805129
+Chordeiles minor,California,14965
+Chordeiles gundlachii,South Carolina,967809
+Nyctidromus albicollis,Pennsylvania,81753
+Phalaenoptilus nuttallii,Michigan,145770
+Siphonorhis americana,Georgia,363885
+Siphonorhis brewsteri,New Hampshire,188790
+Nyctiphrynus mcleodii,Georgia,658643
+Antrostomus vociferus,Texas,226332
+Antrostomus saturatus,Missouri,1152
+Antrostomus arizonae,California,324485
+Antrostomus noctitherus,District of Columbia,931165
+Hydropsalis cayennensis,Florida,440153
+Hydropsalis maculicaudus,Tennessee,65932
+Caprimulgus jotaka,Illinois,655361
+Steatornis caripensis,Nevada,168792
+Nyctibius grandis,Florida,177278
+Nyctibius griseus,Massachusetts,858974
+Cypseloides niger,Colorado,21299
+Cypseloides storeri,District of Columbia,92243
+Cypseloides cryptus,Florida,3177
+Cypseloides cherriei,Nevada,288160
+Streptoprocne rutila,Ohio,255093
+Streptoprocne zonaris,Arizona,986352
+Streptoprocne semicollaris,Minnesota,308804
+Chaetura cinereiventris,Virginia,377472
+Chaetura spinicaudus,Florida,422095
+Chaetura fumosa,Virginia,189443
+Chaetura martinica,Florida,759548
+Chaetura pelagica,District of Columbia,514252
+Chaetura vauxi,Texas,71304
+Chaetura chapmani,Texas,371346
+Chaetura meridionalis,California,668227
+Chaetura brachyura,New York,583948
+Hirundapus caudacutus,Texas,179055
+Aerodramus bartschi,Delaware,293658
+Apus apus,Missouri,147630
+Apus pacificus,Virginia,659391
+Apus melba,Wisconsin,197293
+Aeronautes saxatalis,West Virginia,937738
+Panyptila cayennensis,New Mexico,116146
+Panyptila sanctihieronymi,New York,971663
+Tachornis phoenicobia,New Jersey,243490
+Florisuga mellivora,Florida,98013
+Eutoxeres aquila,Oklahoma,107405
+Glaucis aeneus,Tennessee,240209
+Glaucis hirsutus,Texas,837189
+Threnetes ruckeri,California,204091
+Phaethornis guy,Colorado,899524
+Phaethornis mexicanus,Tennessee,470155
+Phaethornis longirostris,South Carolina,709997
+Phaethornis anthophilus,Texas,350800
+Phaethornis striigularis,New Mexico,414137
+Doryfera ludovicae,Georgia,851765
+Colibri delphinae,Texas,210348
+Colibri thalassinus,Pennsylvania,251320
+Colibri cyanotus,Illinois,236380
+Androdon aequatorialis,Idaho,507699
+Haplophaedia aureliae,Pennsylvania,53812
+Heliodoxa jacula,North Carolina,158641
+Eugenes fulgens,Texas,362455
+Eugenes spectabilis,Oregon,615057
+Panterpe insignis,Minnesota,903791
+Heliomaster longirostris,District of Columbia,497070
+Heliomaster constantii,North Carolina,325032
+Lampornis viridipallens,Oregon,962307
+Lampornis sybillae,Illinois,893692
+Lampornis amethystinus,Pennsylvania,8861
+Lampornis clemenciae,Arizona,729267
+Lampornis hemileucus,Indiana,883899
+Lampornis calolaemus,California,434636
+Lampornis castaneoventris,Montana,457411
+Lamprolaima rhami,California,644557
+Calliphlox bryantae,Michigan,934681
+Calliphlox mitchellii,District of Columbia,948462
+Philodice bryantae,New Jersey,521616
+Philodice mitchellii,Illinois,525118
+Doricha enicura,California,837557
+Doricha eliza,Alabama,855371
+Tilmatura dupontii,Virginia,684137
+Calothorax lucifer,Texas,224853
+Calothorax pulcher,Alaska,807267
+Archilochus colubris,Texas,555628
+Archilochus alexandri,Alabama,685171
+Mellisuga minima,California,236966
+Mellisuga helenae,Texas,396740
+Nesophlox evelynae,Washington,998341
+Nesophlox lyrura,Massachusetts,126866
+Calypte anna,Ohio,251597
+Calypte costae,Oregon,467281
+Selasphorus calliope,Georgia,244412
+Selasphorus rufus,Florida,222327
+Selasphorus sasin,North Carolina,833087
+Selasphorus platycercus,Illinois,53960
+Selasphorus heloisa,Florida,471628
+Selasphorus ellioti,Tennessee,525036
+Pampa curvipennis,District of Columbia,217870
+Pampa excellens,Illinois,831202
+Pampa rufa,California,135173
+Abeillia abeillei,Alabama,202864
+Klais guimeti,Colorado,565660
+Orthorhyncus cristatus,Virginia,948612
+Campylopterus hemileucurus,Florida,963681
+Chalybura urochrysia,Nevada,555556
+Chalybura buffonii,North Carolina,204482
+Thalurania colombica,Wisconsin,365104
+Chlorestes candida,Texas,757656
+Chlorestes eliciae,Texas,308702
+Chlorestes julie,South Carolina,120171
+Neocrex colombiana,Virginia,846306
+Neocrex erythrops,California,86434
+Cyanolimnas cerverai,Texas,422242
+Pardirallus maculatus,Virginia,529436
+Amaurolimnas concolor,Florida,125794
+Aramides axillaris,California,583700
+Aramides albiventris,Georgia,366874
+Aramides cajaneus,Washington,824161
+Rallus obsoletus,Florida,514063
+Rallus tenuirostris,California,227878
+Rallus longirostris,Virginia,689147
+Rallus elegans,Iowa,993926
+Rallus crepitans,Florida,726227
+Rallus limicola,Louisiana,506680
+Rallus aquaticus,Texas,237214
+Crex crex,Indiana,501622
+Porzana carolina,Colorado,432177
+Porzana porzana,Kentucky,422405
+Gallinula galeata,New York,555940
+Gallinula chloropus,Virginia,285156
+Fulica atra,Minnesota,519565
+Aramus guarauna,District of Columbia,42122
+Antigone canadensis,Texas,292308
+Grus grus,California,619496
+Grus americana,New York,463042
+Burhinus bistriatus,Missouri,619373
+Himantopus himantopus,Iowa,152133
+Himantopus mexicanus,West Virginia,773986
+Recurvirostra americana,Utah,195548
+Haematopus ostralegus,Arizona,10032
+Haematopus palliatus,Indiana,754489
+Haematopus bachmani,Washington,277748
+Vanellus vanellus,Virginia,643265
+Vanellus chilensis,District of Columbia,446644
+Pluvialis squatarola,California,920600
+Charadrius mongolus,Florida,874902
+Charadrius leschenaultii,Colorado,506889
+Charadrius veredus,Ohio,570375
+Charadrius wilsonia,Illinois,160520
+Charadrius collaris,Texas,439944
+Charadrius montanus,Florida,288201
+Charadrius nivosus,New York,502620
+Jacana spinosa,California,770828
+Jacana jacana,Maryland,366535
+Bartramia longicauda,New York,92188
+Numenius tahitiensis,Utah,94169
+Numenius phaeopus,Louisiana,683836
+Numenius minutus,District of Columbia,722271
+Numenius borealis,Texas,73716
+Tringa flavipes,District of Columbia,820992
+Tringa semipalmata,Idaho,71354
+Tringa nebularia,South Carolina,921389
+Tringa totanus,Hawaii,180799
+Tringa glareola,Michigan,824773
+Tringa stagnatilis,Texas,267333
+Phalaropus tricolor,Washington,985089
+Phalaropus lobatus,California,489743
+Phalaropus fulicarius,South Dakota,757339
+Glareola pratincola,Pennsylvania,696589
+Glareola maldivarum,Alaska,595130
+Stercorarius skua,Indiana,133061
+Stercorarius maccormicki,Pennsylvania,928499
+Stercorarius pomarinus,Rhode Island,380398
+Stercorarius parasiticus,Texas,562798
+Stercorarius longicaudus,Ohio,754436
+Alle alle,North Carolina,453371
+Uria aalge,New York,61458
+Uria lomvia,Nevada,443196
+Alca torda,Pennsylvania,559133
+Pinguinus impennis,Texas,383971
+Cepphus grylle,Virginia,29853
+Cepphus columba,North Carolina,379220
+Ptychoramphus aleuticus,Ohio,228370
+Aethia psittacula,Colorado,982579
+Aethia pusilla,New York,933579
+Aethia pygmaea,Texas,680472
+Aethia cristatella,Texas,439728
+Cerorhinca monocerata,Florida,524661
+Fratercula arctica,New York,891615
+Fratercula corniculata,Louisiana,761321
+Fratercula cirrhata,Arizona,455246
+Creagrus furcatus,California,189607
+Rissa tridactyla,District of Columbia,391369
+Rissa brevirostris,Missouri,735199
+Pagophila eburnea,Pennsylvania,752448
+Xema sabini,Arizona,756216
+Chroicocephalus philadelphia,Louisiana,708447
+Chroicocephalus cirrocephalus,Massachusetts,997627
+Chroicocephalus ridibundus,Louisiana,273007
+Hydrocoloeus minutus,Louisiana,189816
+Rhodostethia rosea,Pennsylvania,612098
+Leucophaeus modestus,Louisiana,963854
+Leucophaeus atricilla,Connecticut,66990
+Leucophaeus pipixcan,Ohio,907065
+Phaetusa simplex,Minnesota,284214
+Gelochelidon nilotica,Kentucky,39392
+Hydroprogne caspia,Illinois,305277
+Larosterna inca,Wisconsin,802383
+Chlidonias niger,Pennsylvania,846757
+Chlidonias leucopterus,Missouri,726862
+Chlidonias hybrida,Massachusetts,812226
+Sterna dougallii,Georgia,413559
+Sterna hirundo,Virginia,956006
+Thalasseus elegans,Texas,898917
+Rynchops niger,Virginia,648218
+Eurypyga helias,West Virginia,73393
+Phaethon lepturus,Alaska,662161
+Phaethon aethereus,Washington,831723
+Phaethon rubricauda,Arkansas,506465
+Gavia stellata,Kansas,365493
+Gavia arctica,Virginia,696582
+Gavia pacifica,Florida,222908
+Gavia immer,California,272737
+Gavia adamsii,Mississippi,439703
+Thalassarche chlororhynchos,New Jersey,297151
+Thalassarche cauta,Florida,811201
+Phoebastria nigripes,Florida,51150
+Phoebastria irrorata,South Carolina,507300
+Phoebastria albatrus,Virginia,726427
+Oceanites oceanicus,Virginia,446816
+Pelagodroma marina,Ohio,670770
+Fregetta tropica,California,251733
+Hydrobates leucorhous,Texas,528632
+Hydrobates macrodactylus,Idaho,73166
+Hydrobates markhami,Virginia,182611
+Hydrobates tristrami,South Carolina,857787
+Hydrobates microsoma,Iowa,315804
+Procellaria aequinoctialis,New York,633903
+Procellaria parkinsoni,Pennsylvania,82647
+Calonectris leucomelas,New York,959448
+Calonectris diomedea,District of Columbia,923227
+Calonectris edwardsii,Kentucky,757598
+Ardenna pacifica,Missouri,159480
+Ardenna bulleri,Rhode Island,480573
+Puffinus puffinus,Louisiana,586681
+Puffinus auricularis,Texas,525585
+Puffinus newelli,California,997603
+Puffinus bryani,California,297015
+Puffinus opisthomelas,Louisiana,306480
+Puffinus lherminieri,Missouri,628343
+Puffinus baroli,District of Columbia,372197
+Ciconia maguari,Florida,177203
+Jabiru mycteria,California,719847
+Mycteria americana,South Carolina,339135
+Fregata ariel,Alabama,149469
+Fregata magnificens,Florida,895825
+Fregata minor,Louisiana,305446
+Sula dactylatra,West Virginia,132749
+Sula granti,District of Columbia,280328
+Sula nebouxii,Arizona,956431
+Sula variegata,Massachusetts,60181
+Phalacrocorax urile,Texas,382456
+Phalacrocorax pelagicus,Texas,585173
+Phalacrocorax carbo,Texas,727064
+Phalacrocorax auritus,Minnesota,875496
+Phalacrocorax brasilianus,Massachusetts,539037
+Nannopterum auritum,Tennessee,450703
+Nannopterum brasilianum,Florida,265487
+Pelecanus erythrorhynchos,California,875854
+Pelecanus occidentalis,District of Columbia,729673
+Botaurus pinnatus,Texas,359158
+Botaurus lentiginosus,Nevada,456487
+Ardea herodias,Arkansas,326290
+Ardea cinerea,Nevada,762488
+Ardea cocoi,Virginia,299449
+Ardea purpurea,Texas,963743
+Ardea alba,Tennessee,872147
+Bubulcus ibis,North Carolina,176899
+Ardeola bacchus,Ohio,470922
+Butorides virescens,Michigan,565631
+Butorides striata,Oklahoma,848075
+Agamia agami,Florida,550639
+Pilherodius pileatus,Minnesota,874177
+Nycticorax nycticorax,California,216799
+Nyctanassa violacea,Texas,418926
+Cochlearius cochlearius,Pennsylvania,921368
+Eudocimus albus,New York,315522
+Eudocimus ruber,Louisiana,221285
+Plegadis falcinellus,New Jersey,181195
+Plegadis chihi,Louisiana,541870
+Mesembrinibis cayennensis,Georgia,887463
+Theristicus caudatus,New York,422561
+Platalea leucorodia,Illinois,358111
+Platalea ajaja,Georgia,46244
+Gymnogyps californianus,Missouri,711986
+Sarcoramphus papa,Montana,452176
+Coragyps atratus,Michigan,947493
+Cathartes aura,Indiana,908928
+Cathartes burrovianus,Virginia,176136
+Pandion haliaetus,Kentucky,504455
+Gampsonyx swainsonii,Utah,363537
+Elanus leucurus,Michigan,483602
+Chondrohierax uncinatus,Iowa,917345
+Leptodon cayanensis,Tennessee,784528
+Elanoides forficatus,Oklahoma,115942
+Morphnus guianensis,Florida,381027
+Harpia harpyja,Louisiana,450802
+Aquila chrysaetos,California,91336
+Accipiter striatus,Ohio,755982
+Accipiter cooperii,California,109953
+Accipiter gundlachi,Florida,934983
+Accipiter bicolor,Virginia,167394
+Accipiter gentilis,Ohio,357684
+Milvus migrans,Pennsylvania,678721
+Haliaeetus leucocephalus,California,675080
+Haliaeetus albicilla,Texas,601579
+Haliaeetus pelagicus,Florida,384759
+Ictinia mississippiensis,New York,803200
+Ictinia plumbea,Texas,496122
+Busarellus nigricollis,Oregon,636192
+Geranospiza caerulescens,Minnesota,169726
+Rostrhamus sociabilis,Minnesota,512234
+Helicolestes hamatus,Florida,725854
+Cryptoleucopteryx plumbea,Virginia,444402
+Buteogallus anthracinus,Missouri,331712
+Buteogallus gundlachii,Arizona,435196
+Buteogallus meridionalis,Connecticut,193826
+Buteogallus urubitinga,Washington,535433
+Buteogallus solitarius,District of Columbia,654376
+Buteo brachyurus,Connecticut,165649
+Buteo swainsoni,Iowa,550774
+Buteo albonotatus,California,750773
+Buteo jamaicensis,Virginia,260728
+Buteo lagopus,Indiana,787159
+Buteo regalis,California,706517
+Buteo rufinus,Massachusetts,849909
+Tyto alba,Oklahoma,479096
+Tyto glaucops,North Carolina,727744
+Otus sunia,New York,295640
+Psiloscops flammeolus,Colorado,196035
+Gymnasio nudipes,Florida,899213
+Megascops trichopsis,California,835547
+Megascops clarkii,Texas,774935
+Megascops choliba,West Virginia,376098
+Megascops barbarus,California,767756
+Glaucidium siju,Colorado,153888
+Micrathene whitneyi,Alabama,723081
+Athene cunicularia,New York,19812
+Ciccaba virgata,New Mexico,852494
+Ciccaba nigrolineata,Kansas,998148
+Strix occidentalis,Florida,845973
+Strix varia,North Carolina,470320
+Strix sartorii,Texas,28553
+Strix fulvescens,Kansas,954804
+Strix nebulosa,California,91504
+Asio otus,Ohio,911544
+Asio stygius,Texas,107099
+Asio flammeus,Florida,886818
+Asio clamator,District of Columbia,664074
+Asio grammicus,California,995167
+Pseudoscops clamator,Washington,471897
+Pseudoscops grammicus,Missouri,533556
+Aegolius funereus,New York,578714
+Aegolius acadicus,California,373129
+Aegolius ridgwayi,Michigan,387112
+Ninox japonica,Pennsylvania,782485
+Priotelus temnurus,California,824814
+Priotelus roseigaster,Washington,313390
+Trogon rufus,Washington,372001
+Trogon elegans,Florida,774503
+Trogon collaris,Pennsylvania,522335
+Euptilotis neoxenus,Colorado,743775
+Pharomachrus auriceps,Pennsylvania,187047
+Pharomachrus mocinno,Hawaii,235115
+Upupa epops,New Jersey,373624
+Todus multicolor,Oklahoma,669632
+Todus subulatus,District of Columbia,140360
+Todus angustirostris,Florida,351230
+Todus todus,Ohio,56055
+Todus mexicanus,West Virginia,551405
+Hylomanes momotula,Nebraska,164677
+Aspatha gularis,California,845282
+Momotus mexicanus,Kansas,329940
+Momotus coeruliceps,North Carolina,133294
+Chloroceryle amazona,Oklahoma,665617
+Chloroceryle aenea,Iowa,394277
+Chloroceryle americana,Virginia,985770
+Chloroceryle inda,New York,477414
+Nystalus radiatus,Georgia,301081
+Notharchus hyperrhynchus,Nevada,205169
+Notharchus pectoralis,Ohio,200177
+Notharchus tectus,Minnesota,628954
+Malacoptila panamensis,Texas,693733
+Micromonacha lanceolata,Oklahoma,921138
+Nonnula frontalis,Texas,917789
+Monasa morphoeus,South Carolina,541612
+Brachygalba salmoni,Texas,155447
+Melanerpes erythrocephalus,Pennsylvania,392039
+Melanerpes formicivorus,Louisiana,778603
+Melanerpes chrysauchen,North Carolina,676699
+Melanerpes pucherani,Texas,22416
+Melanerpes striatus,Ohio,997091
+Melanerpes radiolatus,Indiana,584630
+Melanerpes chrysogenys,Tennessee,40661
+Melanerpes hypopolius,Virginia,115593
+Melanerpes pygmaeus,Florida,384521
+Melanerpes rubricapillus,California,33880
+Caracara plancus,Connecticut,243152
+Caracara cheriway,District of Columbia,424386
+Caracara lutosa,Tennessee,752929
+Milvago chimachima,California,773447
+Falco femoralis,District of Columbia,871255
+Falco rufigularis,Texas,889072
+Falco deiroleucus,Mississippi,442106
+Falco rusticolus,Florida,226318
+Falco peregrinus,Illinois,191853
+Falco mexicanus,Iowa,729498
+Myiobius sulphureipygius,Colorado,430703
+Myiobius atricaudus,Massachusetts,826746
+Piprites griseiceps,Ohio,958966
+Platyrinchus cancrominus,Illinois,341601
+Platyrinchus mystaceus,Maryland,619850
+Platyrinchus coronatus,Florida,81371
+Mionectes olivaceus,Florida,90552
+Mionectes oleagineus,Florida,831663
+Leptopogon amaurocephalus,Michigan,966355
+Leptopogon superciliaris,Kansas,487198
+Phylloscartes flavovirens,Florida,69396
+Phylloscartes superciliaris,Texas,749765
+Pseudotriccus pelzelni,Oregon,816745
+Myiornis atricapillus,Kansas,537402
+Lophotriccus pileatus,Texas,183330
+Lophotriccus pilaris,Hawaii,634716
+Oncostoma cinereigulare,Louisiana,749953
+Oncostoma olivaceum,Texas,306459
+Poecilotriccus sylvia,Georgia,924370
+Todirostrum cinereum,Texas,401918
+Todirostrum nigriceps,Pennsylvania,108041
+Cnipodectes subbrunneus,Texas,303045
+Rhynchocyclus brevirostris,Kentucky,816574
+Rhynchocyclus olivaceus,District of Columbia,802171
+Tolmomyias sulphurescens,New York,732337
+Tolmomyias assimilis,Pennsylvania,653405
+Tolmomyias flaviventris,Louisiana,275946
+Ornithion semiflavum,Texas,776531
+Ornithion brunneicapillus,Colorado,653539
+Camptostoma imberbe,Kentucky,726382
+Camptostoma obsoletum,Washington,410982
+Nesotriccus ridgwayi,Arizona,773102
+Nesotriccus murinus,Arizona,573317
+Capsiempis flaveola,Massachusetts,203800
+Tyrannulus elatus,Tennessee,273233
+Myiopagis gaimardii,Florida,45790
+Myiopagis caniceps,Idaho,35013
+Myiopagis cotta,Louisiana,610740
+Myiopagis viridicata,Michigan,686133
+Elaenia martinica,Texas,899867
+Elaenia flavogaster,Minnesota,38225
+Elaenia albiceps,Virginia,269297
+Elaenia chiriquensis,Texas,204962
+Elaenia frantzii,Florida,337737
+Elaenia fallax,Texas,691394
+Serpophaga cinerea,California,602407
+Phyllomyias burmeisteri,Nevada,675205
+Phyllomyias griseiceps,California,706042
+Zimmerius vilissimus,New York,350165
+Zimmerius parvus,Virginia,135967
+Myiarchus yucatanensis,Iowa,894844
+Myiarchus barbirostris,Mississippi,714397
+Myiarchus nuttingi,Utah,475153
+Myiarchus crinitus,Utah,517225
+Myiarchus tyrannulus,Florida,652437
+Myiarchus nugator,Texas,1053
+Myiarchus validus,Minnesota,301352
+Myiarchus sagrae,Alabama,145978
+Myiarchus stolidus,Oklahoma,928060
+Myiarchus antillarum,Oklahoma,612129
+Myiarchus oberi,California,313579
+Empidonax alnorum,Massachusetts,634905
+Empidonax traillii,Florida,920828
+Empidonax minimus,Texas,814993
+Empidonax hammondii,Illinois,706401
+Empidonax affinis,California,146704
+Empidonax occidentalis,Massachusetts,372055
+Sayornis nigricans,Texas,903095
+Sayornis phoebe,New Jersey,636358
+Sayornis saya,New York,286936
+Pyrocephalus rubinus,Texas,127974
+Fluvicola pica,Texas,600364
+Sublegatus arenarum,Missouri,755236
+Colonia colonus,Indiana,402225
+Pittasoma michleri,Ohio,987738
+Cymbilaimus lineatus,Colorado,68385
+Taraba major,Minnesota,178548
+Thamnophilus doliatus,District of Columbia,621899
+Thamnophilus nigriceps,New Jersey,528232
+Thamnophilus bridgesi,North Carolina,918577
+Thamnophilus atrinucha,California,811481
+Xenornis setifrons,Pennsylvania,822527
+Thamnistes anabatinus,California,739359
+Dysithamnus mentalis,Washington,418232
+Myrmeciza zeledoni,Kentucky,822827
+Poliocrania exsul,Oklahoma,969901
+Sipia laemosticta,Connecticut,389655
+Hylophylax naevioides,Texas,893478
+Myrmornis torquata,Florida,261412
+Gymnopithys bicolor,Texas,329257
+Phaenostictus mcleannani,New York,676110
+Grallaria guatimalensis,Colorado,187706
+Hylopezus perspicillatus,Texas,865830
+Hylopezus dives,New Jersey,234990
+Grallaricula flavirostris,Ohio,816788
+Scytalopus panamensis,Kansas,383172
+Scytalopus chocoensis,Texas,892952
+Scytalopus argentifrons,Illinois,769005
+Formicarius moniliger,Texas,674650
+Formicarius analis,New Hampshire,740877
+Formicarius nigricapillus,Florida,333521
+Formicarius rufipectus,New York,464493
+Sclerurus mexicanus,Maryland,202528
+Sclerurus albigularis,Alabama,144572
+Sclerurus guatemalensis,Kentucky,925501
+Sittasomus griseicapillus,California,116259
+Deconychura longicauda,California,290964
+Dendrocincla homochroa,California,570980
+Dendrocincla anabatina,Virginia,833347
+Dendrocincla fuliginosa,Oklahoma,709483
+Glyphorynchus spirurus,North Carolina,587864
+Dendrocolaptes sanctithomae,Missouri,354723
+Dendrocolaptes picumnus,Florida,515481
+Automolus exsertus,Illinois,437364
+Automolus subulatus,Wisconsin,273946
+Lanius cristatus,Louisiana,177928
+Lanius collurio,Utah,970033
+Lanius ludovicianus,District of Columbia,320298
+Lanius borealis,Florida,820618
+Cyanolyca mirabilis,Minnesota,664064
+Cyanolyca nanus,Florida,258876
+Cyanolyca pumilo,Illinois,675526
+Cyanolyca argentigula,Virginia,120919
+Cyanocitta stelleri,Florida,767051
+Cyanocitta cristata,Texas,699138
+Aphelocoma woodhouseii,Texas,387864
+Aphelocoma ultramarina,Texas,155769
+Aphelocoma wollweberi,District of Columbia,57982
+Aphelocoma unicolor,Arizona,571391
+Pica hudsonia,Kansas,569978
+Pica nuttalli,Arizona,933418
+Corvus monedula,Nevada,376392
+Corvus frugilegus,California,985284
+Corvus brachyrhynchos,Wisconsin,909963
+Corvus cornix,South Carolina,790820
+Corvus jamaicensis,California,538335
+Corvus sinaloae,California,915514
+Corvus ossifragus,California,732591
+Corvus corax,New Mexico,566863
+Auriparus flaviceps,Pennsylvania,470370
+Poecile carolinensis,Pennsylvania,122861
+Poecile atricapillus,North Carolina,666265
+Poecile gambeli,North Carolina,508635
+Poecile sclateri,California,688290
+Poecile rufescens,Indiana,445466
+Poecile hudsonicus,Kansas,639837
+Poecile cinctus,Kansas,28300
+Baeolophus wollweberi,Iowa,553026
+Baeolophus inornatus,Tennessee,494176
+Baeolophus ridgwayi,Maryland,674637
+Baeolophus bicolor,Texas,331573
+Baeolophus atricristatus,Missouri,147298
+Alauda arvensis,Ohio,541108
+Eremophila alpestris,Texas,54911
+Arundinax aedon,Louisiana,520784
+Acrocephalus familiaris,Texas,605619
+Acrocephalus schoenobaenus,Missouri,714053
+Acrocephalus dumetorum,Kentucky,703897
+Donacobius atricapilla,Texas,181366
+Riparia riparia,Florida,122856
+Tachycineta bicolor,Indiana,996848
+Tachycineta euchrysea,Oklahoma,482293
+Tachycineta albilinea,California,440780
+Atticora pileata,Florida,697984
+Atticora tibialis,Texas,768736
+Delichon urbicum,Texas,215494
+Petrochelidon pyrrhonota,Oklahoma,263389
+Petrochelidon fulva,Alabama,883480
+Psaltriparus minimus,Indiana,10976
+Pycnonotus cafer,California,952692
+Pycnonotus jocosus,North Carolina,78387
+Sitta canadensis,Virginia,954163
+Sitta carolinensis,Florida,240456
+Sitta pygmaea,Oklahoma,986594
+Sitta pusilla,North Carolina,584505
+Sitta insularis,Florida,96651
+Certhia americana,Illinois,995057
+Ramphocaenus melanurus,New Jersey,476485
+Polioptila caerulea ,Virginia,214668
+Polioptila melanura,Georgia,679993
+Polioptila nigriceps,Minnesota,716476
+Polioptila albiloris,Virginia,18067
+Microcerculus philomela,California,319983
+Microcerculus marginatus,Indiana,576681
+Cistothorus stellaris,Alabama,899517
+Cistothorus platensis,Texas,632948
+Cistothorus palustris,Colorado,150563
+Cantorchilus elutus,Ohio,614794
+Cantorchilus nigricapillus,California,491714
+Cantorchilus semibadius,Florida,685459
+Cantorchilus leucotis,Wisconsin,251936
+Uropsila leucogastra,Delaware,55269
+Henicorhina leucosticta,Missouri,903397
+Henicorhina leucophrys,Georgia,258978
+Cyphorhinus phaeocephalus,California,533857
+Melanotis caerulescens,Ohio,680830
+Melanotis hypoleucus,Louisiana,51915
+Melanoptila glabrirostris,Indiana,800843
+Dumetella carolinensis,Texas,486773
+Ramphocinclus brachyurus,Georgia,554936
+Allenia fusca,Nevada,249498
+Margarops fuscatus,Texas,556386
+Cinclocerthia ruficauda,Massachusetts,212074
+Cinclocerthia gutturalis,South Carolina,228851
+Toxostoma bendirei,Arkansas,819944
+Toxostoma cinereum,Pennsylvania,468525
+Toxostoma redivivum,Iowa,54280
+Toxostoma lecontei,California,451129
+Toxostoma crissale,California,833663
+Mimus polyglottos,Georgia,109095
+Sturnus vulgaris,North Carolina,708755
+Acridotheres tristis,Washington,624677
+Cinclus mexicanus,Minnesota,759765
+Sialia sialis,Mississippi,510159
+Sialia mexicana,Georgia,612405
+Sialia currucoides,North Carolina,588592
+Myadestes townsendi,New York,677600
+Myadestes occidentalis,California,670973
+Myadestes elisabeth,District of Columbia,614787
+Myadestes genibarbis,District of Columbia,253945
+Zoothera aurea,District of Columbia,79959
+Catharus gracilirostris,Iowa,768222
+Catharus aurantiirostris,Florida,124756
+Catharus dryas,Alaska,469030
+Catharus fuscescens,Ohio,827185
+Catharus minimus,Michigan,718403
+Catharus bicknelli,New Mexico,281981
+Catharus ustulatus,Missouri,454681
+Catharus guttatus,Arizona,495261
+Hylocichla mustelina,West Virginia,894797
+Turdus viscivorus,Michigan,79896
+Turdus rufopalliatus,Georgia,339654
+Turdus rufitorques,Indiana,956245
+Turdus migratorius,New York,186146
+Turdus swalesi,Florida,878091
+Turdus aurantius,Virginia,673080
+Turdus ravidus,Kentucky,878229
+Turdus plumbeus,Connecticut,961888
+Turdus lherminieri,Oregon,916921
+Ixoreus naevius,North Carolina,725170
+Muscicapa griseisticta,Texas,103997
+Muscicapa dauurica,Connecticut,202794
+Muscicapa striata,Nebraska,764180
+Muscicapa sibirica,Nevada,297518
+Copsychus malabaricus,District of Columbia,148217
+Erithacus rubecula,California,918736
+Larvivora cyane,Texas,663417
+Larvivora sibilans,Texas,714953
+Cyanecula svecica,California,128183
+Ploceus cucullatus,Florida,938194
+Euplectes franciscanus,Pennsylvania,530833
+Euplectes afer,Minnesota,973707
+Vidua macroura,Connecticut,676001
+Uropsila leucogastra,California,558544
+Henicorhina leucosticta,Tennessee,854026
+Henicorhina leucophrys,New York,982593
+Melanotis caerulescens,Illinois,265590
+Melanotis hypoleucus,Florida,800635
+Melanoptila glabrirostris,Illinois,909451
+Dumetella carolinensis,Florida,389505
+Ramphocinclus brachyurus,California,96223
+Allenia fusca,Massachusetts,542875
+Margarops fuscatus,Ohio,975571
+Cinclocerthia ruficauda,Virginia,49635
+Cinclocerthia gutturalis,Michigan,399689
+Toxostoma bendirei,California,461633
+Toxostoma cinereum,Ohio,397397
+Toxostoma redivivum,Oregon,325729
+Toxostoma lecontei,Pennsylvania,942315
+Mimus polyglottos,Tennessee,422141
+Sturnus vulgaris,Kansas,121701
+Acridotheres tristis,New York,221721
+Cinclus mexicanus,Oklahoma,151399
+Sialia sialis,Missouri,121253
+Sialia mexicana,California,365529
+Sialia currucoides,Virginia,145181
+Myadestes townsendi,District of Columbia,117045
+Myadestes occidentalis,Louisiana,925723
+Myadestes elisabeth,California,208523
+Myadestes genibarbis,Connecticut,821249
+Zoothera aurea,California,548010
+Catharus gracilirostris,Louisiana,751954
+Catharus aurantiirostris,District of Columbia,598794
+Catharus dryas,Pennsylvania,180594
+Catharus fuscescens,Kentucky,386620
+Catharus minimus,Hawaii,544830
+Catharus bicknelli,Missouri,479768
+Catharus ustulatus,Ohio,65881
+Catharus guttatus,Massachusetts,67997
+Hylocichla mustelina,Pennsylvania,836866
+Turdus viscivorus,Texas,356052
+Turdus rufopalliatus,Kentucky,13179
+Turdus rufitorques,District of Columbia,17181
+Turdus migratorius,Colorado,654429
+Turdus swalesi,Wisconsin,241500
+Turdus aurantius,Florida,932409
+Turdus ravidus,Arkansas,36435
+Turdus plumbeus,Louisiana,490188
+Turdus lherminieri,Texas,320784
+Ixoreus naevius,Ohio,868816
+Muscicapa griseisticta,Delaware,769746
+Muscicapa dauurica,Virginia,31272
+Muscicapa striata,Pennsylvania,299585
+Muscicapa sibirica,Illinois,550440
+Copsychus malabaricus,Pennsylvania,563390
+Erithacus rubecula,Arizona,551037
+Larvivora cyane,Pennsylvania,908058
+Larvivora sibilans,New York,991764
+Cyanecula svecica,Florida,449900
+Ploceus cucullatus,Virginia,739640
+Euplectes franciscanus,Delaware,884799
+Vidua macroura,Illinois,660377
+Spermestes cucullata,Texas,399003
+Euodice cantans,Florida,322649
+Euodice malabarica,New York,297410
+Padda oryzivora,South Dakota,934852
+Lonchura punctulata,Virginia,37186
+Lonchura malacca,California,725507
+Lonchura atricapilla,Wisconsin,958163
+Lonchura oryzivora,Massachusetts,748855
+Amandava amandava,Georgia,142454
+Motacilla citreola,California,15230
+Motacilla cinerea,Kentucky,710794
+Motacilla alba,Pennsylvania,562713
+Anthus trivialis,California,59945
+Anthus rubescens,Ohio,290872
+Anthus pratensis,California,135807
+Anthus lutescens,Mississippi,397478
+Fringilla coelebs,California,606554
+Fringilla montifringilla,Louisiana,123467
+Chlorophonia elegantissima,New York,986167
+Chlorophonia musica,Montana,889322
+Chlorophonia flavirostris,New Mexico,348362
+Chlorophonia occipitalis,California,477170
+Chlorophonia callophrys,Ohio,365815
+Euphonia affinis,California,910180
+Euphonia laniirostris,Oregon,735880
+Euphonia imitans,District of Columbia,969882
+Euphonia fulvicrissa,District of Columbia,997208
+Loxioides bailleui,Illinois,866671
+Telespiza cantans,Colorado,373918
+Telespiza ultima,Tennessee,568891
+Chloridops kona,New York,4277
+Rhodacanthis flaviceps,Minnesota,530470
+Ciridops anna,Indiana,285401
+Palmeria dolei,District of Columbia,327770
+Himatione fraithii,Colorado,841956
+Himatione sanguinea,West Virginia,689707
+Drepanis coccinea,Texas,832804
+Drepanis pacifica,Georgia,756968
+Drepanis funerea,Massachusetts,443215
+Psittirostra psittacea,Texas,731523
+Dysmorodrepanis munroi,North Carolina,355856
+Pseudonestor xanthophrys,Virginia,298474
+Spinus psaltria,Tennessee,394881
+Spinus tristis,Texas,968357
+Rhodinocichla rosea,Florida,465817
+Calcarius lapponicus,Washington,979051
+Calcarius ornatus,Pennsylvania,529077
+Calcarius pictus,Texas,847231
+Rhynchophanes mccownii,Massachusetts,425932
+Plectrophenax nivalis,Hawaii,146516
+Plectrophenax hyperboreus,Ohio,270763
+Emberiza leucocephalos,Virginia,611695
+Emberiza pusilla,Pennsylvania,679046
+Emberiza rustica,California,895650
+Peucaea carpalis,Kentucky,619980
+Peucaea sumichrasti,Florida,767699
+Peucaea ruficauda,New York,451531
+Peucaea humeralis,California,302158
+Peucaea mystacalis,Minnesota,25299
+Peucaea botterii,New Mexico,27857
+Peucaea cassinii,New York,230928
+Peucaea aestivalis,Florida,703260
+Ammodramus savannarum,North Carolina,51620
+Arremonops rufivirgatus,Texas,26996
+Arremonops chloronotus,Pennsylvania,245965
+Arremonops conirostris,Washington,357179
+Amphispizopsis quinquestriata,California,357309
+Amphispiza quinquestriata,Florida,392801
+Amphispiza bilineata,Florida,397047
+Chondestes grammacus,Texas,366436
+Calamospiza melanocorys,Illinois,942421
+Spizella passerina,South Carolina,236158
+Spizella pallida,Kentucky,238819
+Spizella atrogularis,Louisiana,777655
+Spizella pusilla,New York,784599
+Spizella breweri,New York,829520
+Spizelloides arborea,Pennsylvania,62202
+Junco vulcani,North Carolina,272545
+Junco insularis,Georgia,233532
+Junco hyemalis,Florida,539219
+Junco phaeonotus,Delaware,361572
+Junco bairdi,Virginia,183621
+Zonotrichia capensis,California,613876
+Zonotrichia leucophrys,Florida,687175
+Zonotrichia atricapilla,Washington,132029
+Zonotrichia querula,Minnesota,41079
+Zonotrichia albicollis,Washington,413412
+Artemisiospiza nevadensis,Florida,493116
+Melozone crissalis,Mississippi,147137
+Melozone leucotis,Kansas,963631
+Melozone biarcuata,North Carolina,668886
+Melozone cabanisi,California,589914
+Aimophila rufescens,Connecticut,578588
+Aimophila ruficeps,Illinois,307722
+Aimophila notosticta,California,327944
+Pipilo chlorurus,Hawaii,836031
+Pipilo maculatus,Louisiana,588862
+Pipilo erythrophthalmus,California,431036
+Pipilo ocai,Texas,560725
+Atlapetes pileatus,California,143161
+Atlapetes albinucha,California,464893
+Atlapetes tibialis,North Carolina,253911
+Atlapetes luteoviridis,Indiana,573317
+Calyptophilus tertius,District of Columbia,261764
+Calyptophilus frugivorus,Texas,837869
+Phaenicophilus palmarum,Maryland,694632
+Phaenicophilus poliocephalus,Florida,451471
+Sturnella magna,Michigan,168432
+Sturnella neglecta,Florida,509928
+Psarocolius decumanus,District of Columbia,918802
+Psarocolius guatimozinus,South Carolina,778014
+Icterus maculialatus,New York,267320
+Icterus spurius,Florida,423457
+Icterus pectoralis,Texas,630813
+Agelaius humeralis,Georgia,374018
+Agelaius xanthomus,Connecticut,408919
+Molothrus bonariensis,Maryland,998227
+Molothrus aeneus,Florida,864813
+Molothrus ater,Massachusetts,99012
+Molothrus oryzivorus,Florida,913987
+Euphagus carolinus,New York,7869
+Euphagus cyanocephalus,Virginia,280961
+Quiscalus quiscula,District of Columbia,346885
+Quiscalus major,Illinois,714146
+Quiscalus lugubris,Idaho,40155
+Chrysomus icterocephalus,New Jersey,307498
+Catharopeza bishopi,Colorado,447350
+Setophaga dominica,New York,938216
+Setophaga flavescens,Texas,790740
+Setophaga vitellina,Texas,508758
+Setophaga discolor,Alabama,5002
+Setophaga adelaidae,Georgia,442179
+Setophaga subita,South Carolina,754713
+Setophaga delicata,Michigan,676886
+Setophaga graciae,Florida,388000
+Setophaga nigrescens,Texas,753779
+Setophaga townsendi,California,396678
+Setophaga chrysoparia,Wisconsin,452299
+Cardellina canadensis,District of Columbia,443969
+Cardellina pusilla,Nebraska,639764
+Cardellina rubrifrons,Connecticut,710447
+Cardellina rubra,Florida,141406
+Cardellina versicolor,Virginia,758916
+Myioborus pictus,South Dakota,866033
+Myioborus miniatus,Pennsylvania,31097
+Myioborus torquatus,Pennsylvania,612796
+Habia rubica,California,262107
+Habia fuscicauda,New York,415478
+Habia atrimaxillaris,Kansas,548983
+Chlorothraupis olivacea,California,820196
+Caryothraustes poliogaster,Virginia,310362
+Caryothraustes canadensis,Illinois,743852
+Haplospiza rustica,Connecticut,366292
+Acanthidops bairdi,Florida,288404
+Diglossa baritula,Texas,690926
+Diglossa plumbea,Delaware,314529
+Cyanerpes lucidus,Massachusetts,690785
+Cyanerpes caeruleus,California,904635
+Cyanerpes cyaneus,South Dakota,342569
+Dacnis venusta,Kentucky,494857
+Dacnis cayana,California,618955
+Euneornis campestris,Arkansas,120185
+Melopyrrha portoricensis,Texas,383741
+Melopyrrha nigra,Ohio,802299
+Melopyrrha violacea,Minnesota,727524
+Melanospiza bicolor,Louisiana,807332
+Melanospiza richardsoni,Washington,386016
+Pinaroloxias inornata,Texas,205805
+Sporophila lineola,Minnesota,636936
+Sporophila funerea,Minnesota,704926
+Sporophila crassirostris,New York,137895
+Sporophila nuttingi,Texas,219895
+Sporophila corvina,Arizona,205219
+Tachycineta euchrysea,Georgia,438495
+Tachycineta albilinea,Massachusetts,867802
+Atticora pileata,Ohio,890341
+Atticora tibialis,Florida,481045
+Delichon urbicum,Alabama,274332
+Petrochelidon pyrrhonota,Virginia,856280
+Petrochelidon fulva,Colorado,948375
+Psaltriparus minimus,Virginia,419986
+Pycnonotus cafer,Kansas,438870
+Pycnonotus jocosus,California,836691
+Sitta canadensis,Illinois,893886
+Sitta carolinensis,Georgia,885683
+Sitta pygmaea,Illinois,84123
+Sitta pusilla,New York,636009
+Certhia americana,District of Columbia,754482
+Ramphocaenus melanurus,North Carolina,395888
+Polioptila caerulea ,Alabama,987482
+Polioptila melanura,Massachusetts,95852
+Polioptila nigriceps,California,832249
+Polioptila albiloris,Indiana,319434
+Microcerculus philomela,Utah,518552
+Microcerculus marginatus,New York,571334
+Cistothorus stellaris,Virginia,71160
+Cistothorus platensis,Georgia,313097
+Cistothorus palustris,Kentucky,685882
+Cantorchilus elutus,Wisconsin,635582
+Cantorchilus nigricapillus,Colorado,95996
+Cantorchilus semibadius,Texas,592156
+Cantorchilus leucotis,Nevada,767032
+Uropsila leucogastra,Illinois,840642
+Henicorhina leucosticta,Ohio,998557
+Henicorhina leucophrys,California,120077
+Cyphorhinus phaeocephalus,New York,855080
+Nothocercus bonapa,Virginia,949271
+Tinamus major,Ohio,554458
+Crypturellus soui,Arizona,432651
+Crypturellus cinnamomeus,Texas,957166
+Crypturellus boucardi,Texas,707341
+Crypturellus kerriae,Alabama,593995
+Dendrocygna viduata,Florida,367901
+Dendrocygna autumnalis,Florida,578329
+Dendrocygna arborea,West Virginia,300860
+Dendrocygna bicolor,Texas,716066
+Anser canagicus,Florida,588671
+Anser caerulescens,Texas,223092
+Anser rossii,Texas,128970
+Anser anser,Florida,924534
+Anser albifrons,Minnesota,909523
+Anser erythropus,California,379449
+Anser fabalis,Florida,164815
+Anser serrirostris,Indiana,652517
+Anser brachyrhynchus,Oregon,472918
+Branta bernicla,District of Columbia,85749
+Branta leucopsis,Tennessee,247498
+Branta hutchinsii,Nevada,809632
+Branta canadensis,Pennsylvania,917284
+Melanitta deglandi,Florida,813795
+Melanitta stejnegeri,Arizona,315232
+Melanitta nigra,Minnesota,284665
+Melanitta americana,Kansas,89251
+Clangula hyemalis,New York,175683
+Bucephala albeola,Florida,883353
+Bucephala islandica,Tennessee,35263
+Mergellus albellus,New York,533482
+Mergus merganser,Missouri,381722
+Mergus serrator,Connecticut,345840
+Nomonyx dominicus,Utah,37578
+Oxyura jamaicensis,New York,313971
+Ortalis vetula,Texas,726444
+Ortalis cinereiceps,New Hampshire,722385
+Ortalis ruficauda,Washington,705718
+Ortalis wagleri,Texas,737319
+Ortalis poliocephala,Arizona,304315
+Penelope purpurascens,Ohio,318692
+Chamaepetes unicolor,New York,978362
+Penelopina nigra,New Jersey,71331
+Oreophasis derbianus,Ohio,628689
+Crax rubra,District of Columbia,468156
+Numida meleagris,New York,179115
+Rhynchortyx cinctus,Virginia,142554
+Oreortyx pictus,New Jersey,366622
+Dendrortyx leucophrys,Texas,766808
+Dendrortyx macroura,Kentucky,985811
+Dendrortyx barbatus,Iowa,187298
+Philortyx fasciatus,Kentucky,66380
+Colinus virginianus,North Carolina,865244
+Colinus nigrogularis,Alabama,964181
+Colinus cristatus,Washington,720683
+Callipepla squamata,New York,435898
+Callipepla douglasii,Texas,620669
+Callipepla gambelii,Pennsylvania,296963
+Cyrtonyx montezumae,West Virginia,902692
+Cyrtonyx ocellatus,Indiana,139253
+Dactylortyx thoracicus,Oregon,672253
+Odontophorus gujanensis,Texas,426135
+Odontophorus melanotis,Missouri,876842
+Odontophorus dialeucos,California,511835
+Odontophorus leucolaemus,Massachusetts,767797
+Odontophorus guttatus,Michigan,880804
+Meleagris gallopavo,Kentucky,460346
+Meleagris ocellata,New York,371390
+Bonasa umbellus,Florida,65581
+Falcipennis canadensis,New York,147559
+Lagopus lagopus,North Carolina,355097
+Lagopus muta,Florida,206567
+Lagopus leucura,Florida,9478
+Centrocercus urophasianus,New York,972529
+Dendragapus obscurus,Virginia,611166
+Coturnix japonica,Virginia,270058
+Pternistis erckelii,Florida,925343
+Anser fabalis,Missouri,464655
+Anser serrirostris,New York,860661
+Anser brachyrhynchus,Connecticut,702714
+Branta bernicla,Connecticut,256524
+Branta leucopsis,Ohio,917644
+Branta hutchinsii,Georgia,395700
+Branta canadensis,Massachusetts,528938
+Melanitta deglandi,Kentucky,679755
+Melanitta stejnegeri,Florida,941127
+Melanitta nigra,Florida,706338
+Melanitta americana,Georgia,93487
+Clangula hyemalis,Utah,396763
+Bucephala albeola,California,689757
+Bucephala clangula,Illinois,772349
+Bucephala islandica,Iowa,810805
+Mergellus albellus,Alabama,329435
+Lophodytes cucullatus,Colorado,237667
+Mergus merganser,Arizona,272056
+Mergus serrator,Missouri,858183
+Nomonyx dominicus,Florida,528851
+Oxyura jamaicensis,Texas,427923
+Ortalis vetula,California,313653
+Ortalis cinereiceps,Texas,327725
+Ortalis ruficauda,Ohio,942482
+Ortalis wagleri,Colorado,964849
+Ortalis poliocephala,Florida,587378
+Ortalis leucogastra,Texas,94564
+Chamaepetes unicolor,Louisiana,502769
+Penelopina nigra,California,233109
+Oreophasis derbianus,California,857651
+Crax rubra,Florida,730448
+Numida meleagris,Virginia,849416
+Rhynchortyx cinctus,Kentucky,936467
+Oreortyx pictus,Louisiana,77686
+Dendrortyx leucophrys,Tennessee,718295
+Dendrortyx macroura,Oregon,987970
+Philortyx fasciatus,Florida,482046
+Colinus virginianus,California,516677
+Colinus nigrogularis,Texas,908206
+Colinus cristatus,Nevada,378135
+Callipepla squamata,Texas,309898
+Callipepla douglasii,California,731558
+Callipepla gambelii,Texas,744410
+Cyrtonyx montezumae,Connecticut,741768
+Cyrtonyx ocellatus,Illinois,506559
+Dactylortyx thoracicus,Colorado,856108
+Odontophorus gujanensis,Tennessee,236245
+Odontophorus melanotis,Tennessee,585692
+Odontophorus dialeucos,New Jersey,897896
+Odontophorus leucolaemus,New York,966492
+Meleagris gallopavo,Florida,931738
+Falcipennis canadensis,Ohio,984930
+Canachites canadensis,Pennsylvania,106507
+Lagopus lagopus,Arizona,706312
+Lagopus muta,Michigan,433914
+Lagopus leucura,Nebraska,804563
+Centrocercus urophasianus,Maryland,710068
+Centrocercus minimus,Oklahoma,123186
+Dendragapus obscurus,New Mexico,491685
+Alectoris chukar,Kentucky,276844
+Coturnix japonica,West Virginia,780828
+Pternistis erckelii,California,435246
+Phoenicopterus ruber,Florida,254033
+Tachybaptus dominicus,Georgia,549405
+Podilymbus podiceps,New York,735499
+Podilymbus gigas,Oklahoma,130461
+Podiceps auritus,North Carolina,109617
+Podiceps grisegena,Pennsylvania,93172
+Podiceps nigricollis,Louisiana,736480
+Aechmophorus occidentalis,Nevada,772577
+Aechmophorus clarkii,New York,845750
+Pterocles exustus,California,26870
+Columba livia,Alaska,234980
+Columba palumbus,Louisiana,67273
+Patagioenas cayennensis,Ohio,576384
+Patagioenas speciosa,Illinois,899359
+Patagioenas squamosa,Illinois,827430
+Patagioenas leucocephala,Texas,50137
+Patagioenas flavirostris,Massachusetts,442168
+Patagioenas inornata,Colorado,188414
+Patagioenas fasciata,Oklahoma,773118
+Patagioenas caribaea,Virginia,523592
+Patagioenas plumbea,Florida,954429
+Patagioenas subvinacea,Massachusetts,343362
+Patagioenas nigrirostris,California,138031
+Patagioenas goodsoni,Connecticut,718107
+Streptopelia orientalis,Texas,938316
+Streptopelia roseogrisea,Kentucky,87355
+Streptopelia turtur,California,716129
+Streptopelia decaocto,Virginia,6481
+Streptopelia chinensis,Virginia,384345
+Geopelia striata,Virginia,837015
+Columbina inca,Virginia,946353
+Columbina passerina,New York,57928
+Columbina minuta,Illinois,648491
+Columbina talpacoti,Connecticut,577164
+Claravis pretiosa,California,717544
+Paraclaravis mondetoura,District of Columbia,980020
+Starnoenas cyanocephala,Minnesota,452729
+Geotrygon versicolor,Texas,212287
+Zentrygon costaricensis,Utah,43657
+Zentrygon lawrencii,Ohio,115185
+Zentrygon albifacies,Massachusetts,259868
+Zentrygon chiriquensis,Florida,599553
+Zentrygon goldmani,Georgia,739427
+Zenaida asiatica,Illinois,986413
+Zenaida aurita,Mississippi,804457
+Zenaida auriculata,Georgia,713705
+Zenaida macroura,New Jersey,312331
+Zenaida graysoni,Indiana,994866
+Coccyzus euleri,Michigan,798067
+Coccyzus minor,Pennsylvania,985325
+Coccyzus ferrugineus,Massachusetts,398488
+Coccyzus erythropthalmus,Tennessee,753871
+Coccyzus lansbergi,California,627853
+Coccyzus pluvialis,Massachusetts,835834
+Coccyzus rufigularis,Missouri,760087
+Coccyzus vetula,Kansas,758260
+Coccyzus vieilloti,Georgia,198653
+Coccyzus merlini,California,705449
+Coccyzus longirostris,Indiana,122214
+Lurocalis semitorquatus,Texas,680687
+Chordeiles acutipennis,Pennsylvania,935639
+Chordeiles minor,Maryland,573918
+Chordeiles gundlachii,New York,141801
+Nyctidromus albicollis,Kansas,829851
+Phalaenoptilus nuttallii,Texas,797885
+Siphonorhis americana,Florida,266785
+Siphonorhis brewsteri,California,974780
+Nyctiphrynus mcleodii,Kentucky,85486
+Antrostomus vociferus,Kansas,29901
+Antrostomus saturatus,California,672097
+Antrostomus arizonae,Florida,247526
+Antrostomus noctitherus,Idaho,469041
+Hydropsalis cayennensis,Pennsylvania,743498
