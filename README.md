@@ -8,5 +8,5 @@ To Run:
 3. Upload all the files
 4. Select Run
 
-Here is a link to the establiashed Replit used for the project. 
+Here is a link to the establiashed Replit used for the project: 
 https://replit.com/join/iubvhezqks-ellje23
