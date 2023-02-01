@@ -2,7 +2,7 @@
 A website built for the birds of the United States. 
 It allows a user to search recent sightings in their area, join birding groups, and to determine a bird specie based on certain features. 
 
-To Run:
+### To Run:
 1. Download all the files 
 2. Open a new project on Replit
 3. Upload all the files
